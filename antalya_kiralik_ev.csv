@@ -1,0 +1,751 @@
+mahalle,brut_alan_m2,net_alan_m2,oda_sayisi,bina_kat_sayisi,dairenin_bulundugu_kat,bina_yas,isitma_turu,banyo_sayisi,balkon,asansor,otopark,esya_durumu,site_icinde,sahibi,aidat,depozito,fiyat
+Bayındır Mh.,90.0,80.0,2+1,4.0,Giriş Katı,21-25 arası,Klima,1.0,0,0,Açık Otopark,1,0,0,100,15000,15000.0
+Çaybaşı Mh.,145.0,135.0,3+1,5.0,1,0,Kombi (Doğalgaz),1.0,1,1,Kapalı Otopark,0,1,0,1500,30000,29000.0
+Güzeloba Mh.,145.0,130.0,3+1,4.0,3,11-15 arası,Klima,1.0,1,0,Açık Otopark,0,0,1,500,25000,24750.0
+Şirinyalı Mh.,230.0,200.0,3+1,3.0,2,5-10 arası,Doğalgaz Sobası,2.0,0,0,Açık Otopark,1,0,0,0,30000,30000.0
+Çağlayan Mh.,320.0,300.0,4+2,8.0,8,16-20 arası,Klima,3.0,1,1,Açık Otopark,0,1,0,0,37500,37500.0
+Kızılsaray Mh.,140.0,130.0,3+1,10.0,Giriş Altı Kot 2,26-30 arası,Klima,1.0,1,1,Yok,1,0,1,0,50000,25000.0
+Zerdalilik Mah.,120.0,115.0,3+1,3.0,1,31 ve üzeri,Klima,1.0,1,0,Açık Otopark,0,0,0,100,13000,13000.0
+Kızılarık Mh.,100.0,90.0,2+1,4.0,3,5-10 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,0,14000.0
+Meydankavağı Mh.,155.0,145.0,3+1,9.0,6,11-15 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,0,1,0,0,25000,25000.0
+Yenigün Mh.,85.0,80.0,2+1,4.0,4,21-25 arası,Klima,1.0,1,0,Yok,0,0,0,0,22000,11500.0
+Meltem Mah.,130.0,120.0,3+1,8.0,1,26-30 arası,Klima,1.0,1,1,Açık Otopark,1,1,0,0,44000,24000.0
+Elmalı Mh.,40.0,35.0,1+1,4.0,4,31 ve üzeri,Yerden Isıtma,1.0,0,0,Yok,1,0,0,0,0,15800.0
+Güvenlik Mh.,25.0,20.0,Stüdyo (1+0),5.0,1,1,Klima,1.0,0,0,Açık Otopark,1,0,0,0,10000,11000.0
+Gebizli Mah.,70.0,60.0,1+1,4.0,Giriş Katı,5-10 arası,Klima,1.0,0,1,Açık Otopark,0,0,0,0,0,15000.0
+Muratpaşa Mh.,100.0,95.0,2+1,4.0,4,21-25 arası,Klima,1.0,1,0,Yok,0,0,0,0,0,12500.0
+Çağlayan Mh.,70.0,60.0,1+1,11.0,Giriş Katı,11-15 arası,Yok,1.0,0,1,Açık Otopark,0,1,0,1200,13000,13000.0
+Güzeloba Mh.,75.0,70.0,1+1,2.0,Yüksek Giriş,21-25 arası,Klima,1.0,1,0,Açık Otopark,1,1,0,0,15000,15000.0
+Çağlayan Mh.,245.0,225.0,4+1,4.0,4,5-10 arası,Kombi (Doğalgaz),3.0,1,1,Açık & Kapalı Otopark,0,1,0,2000,60000,55000.0
+Güzeloba Mh.,65.0,60.0,1+1,2.0,Yüksek Giriş,5-10 arası,Kombi (Elektrik),1.0,1,0,Açık Otopark,1,0,0,0,30000,17000.0
+Güzeloba Mh.,170.0,160.0,3+1,2.0,2,5-10 arası,Klima,2.0,1,0,Açık Otopark,1,0,0,0,0,29000.0
+Çağlayan Mh.,60.0,55.0,1+1,4.0,Giriş Katı,11-15 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,18000,18000.0
+Etiler Mah.,120.0,110.0,3+1,3.0,Giriş Katı,21-25 arası,Yok,1.0,1,0,Açık Otopark,0,0,0,50,20000,13500.0
+Fener Mah.,200.0,190.0,3+1,11.0,1,16-20 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,40000,40000.0
+Güzeloba Mh.,210.0,180.0,4+1,3.0,2,5-10 arası,Klima,2.0,1,0,Açık Otopark,1,0,0,50,50000,40000.0
+Şirinyalı Mh.,165.0,150.0,3+1,4.0,3,21-25 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,1,0,0,0,50000,25000.0
+Yüksekalan Mh.,105.0,95.0,2+1,5.0,4,11-15 arası,Klima,2.0,1,1,Açık Otopark,0,0,0,100,16000,16000.0
+Güzeloba Mh.,160.0,150.0,3+1,4.0,Giriş Katı,11-15 arası,Klima,1.0,1,0,Açık Otopark,0,1,0,0,80000,45000.0
+Çağlayan Mh.,120.0,110.0,2+1,10.0,7,5-10 arası,Kombi (Doğalgaz),2.0,1,1,Açık & Kapalı Otopark,0,1,1,2910,50000,55000.0
+Güzeloba Mh.,90.0,80.0,2+1,3.0,2,16-20 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,100,15000,15000.0
+Meydankavağı Mh.,150.0,140.0,3+1,8.0,1,16-20 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,16500,16500.0
+Elmalı Mh.,150.0,140.0,3+1,7.0,4,31 ve üzeri,Klima,1.0,1,1,Yok,0,1,0,500,25000,25000.0
+Varlık Mh.,135.0,125.0,3+1,5.0,1,21-25 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,0,0,15000.0
+Fener Mah.,50.0,45.0,1+1,15.0,3,16-20 arası,Klima,1.0,0,1,Açık Otopark,1,0,0,750,19000,19000.0
+Konuksever Mah.,100.0,90.0,2+1,3.0,3,16-20 arası,Yok,1.0,1,0,Açık Otopark,0,0,1,100,15000,15000.0
+Doğuyaka Mh.,100.0,85.0,2+1,5.0,1,5-10 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,0,1,300,30000,20000.0
+Fener Mah.,210.0,190.0,3+1,13.0,11,21-25 arası,Kombi (Doğalgaz),1.0,1,1,Açık & Kapalı Otopark,0,1,0,70000,0,70000.0
+Bayındır Mh.,145.0,130.0,3+1,4.0,2,21-25 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,70,20000,18000.0
+Haşimişcan Mh.,135.0,125.0,3+1,7.0,6,21-25 arası,Yok,2.0,1,1,Yok,0,0,0,0,27000,24000.0
+Yüksekalan Mh.,120.0,110.0,2+1,4.0,3,4,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,1,0,0,0,23000,23000.0
+Gençlik Mh.,145.0,120.0,3+1,7.0,5,26-30 arası,Klima,1.0,1,1,Yok,1,0,0,165,50000,26000.0
+Şirinyalı Mh.,170.0,160.0,2+1,6.0,Yüksek Giriş,16-20 arası,Klima,2.0,1,1,Yok,1,0,0,0,0,30000.0
+Çaybaşı Mh.,85.0,70.0,2+1,5.0,1,11-15 arası,Klima,1.0,0,1,Yok,0,0,0,300,16000,16000.0
+Güzeloba Mh.,90.0,85.0,2+1,2.0,1,5-10 arası,Klima,2.0,1,0,Açık Otopark,1,1,0,1200,30000,30000.0
+Yüksekalan Mh.,100.0,90.0,2+1,7.0,4,26-30 arası,Klima,1.0,1,1,Yok,0,0,0,250,25000,21000.0
+Güzeloba Mh.,55.0,50.0,1+1,2.0,2,3,Klima,1.0,0,1,Kapalı Otopark,1,1,0,1000,35000,21000.0
+Elmalı Mh.,60.0,50.0,1+1,7.0,1,31 ve üzeri,Klima,1.0,0,1,Yok,1,0,0,250,0,15000.0
+Kızılarık Mh.,130.0,120.0,3+1,4.0,2,5-10 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,18500,18500.0
+Güzeloba Mh.,55.0,50.0,1+1,2.0,Yüksek Giriş,5-10 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,200,25000,13500.0
+Fener Mah.,70.0,60.0,1+1,2.0,Bahçe Katı,5-10 arası,Klima,1.0,0,0,Yok,1,0,0,0,21000,21000.0
+Yeşilbahçe Mh.,195.0,185.0,3+1,10.0,10,11-15 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,1,1,0,0,95000,95000.0
+Bayındır Mh.,100.0,95.0,2+1,4.0,1,4,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,0,1,0,0,24500.0
+Fener Mah.,185.0,175.0,3+1,10.0,9,26-30 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,0,0,0,300,48000,48000.0
+Güzeloba Mh.,95.0,90.0,2+1,2.0,2,2,Klima,1.0,1,0,Kapalı Otopark,0,1,0,1000,50000,35000.0
+Sedir Mah.,105.0,90.0,2+1,4.0,3,0,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,0,0,0,350,44000,22000.0
+Yeşilbahçe Mh.,75.0,60.0,1+1,4.0,Yüksek Giriş,11-15 arası,Klima,1.0,1,0,Açık Otopark,1,1,0,200,25000,15000.0
+Sinan Mah.,110.0,100.0,2+1,4.0,3,4,Klima,2.0,1,0,Yok,1,0,0,0,30000,20000.0
+Çağlayan Mh.,160.0,130.0,3+1,6.0,3,21-25 arası,Klima,2.0,1,1,Açık Otopark,0,0,0,0,0,20000.0
+Fener Mah.,230.0,220.0,3+1,8.0,2,21-25 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,0,0,0,300,0,27000.0
+Etiler Mah.,110.0,100.0,2+1,3.0,3,16-20 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,150,15000,15000.0
+Deniz Mah.,100.0,85.0,2+1,4.0,1,31 ve üzeri,Klima,1.0,1,0,Yok,0,0,0,0,15000,15000.0
+Deniz Mah.,152.0,140.0,3+1,7.0,6,26-30 arası,Kombi (Doğalgaz),1.0,1,1,Yok,0,0,0,0,0,25000.0
+Kızılarık Mh.,100.0,90.0,2+1,4.0,3,5-10 arası,Soba,1.0,1,1,Yok,0,0,0,0,0,13000.0
+Gençlik Mh.,105.0,95.0,2+1,6.0,2,5-10 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,0,0,0,1500,35000,42500.0
+Çaybaşı Mh.,100.0,90.0,2+1,5.0,Bahçe Katı,5-10 arası,Klima,1.0,1,0,Açık Otopark,0,0,1,150,21500,21500.0
+Etiler Mah.,145.0,140.0,3+1,3.0,Giriş Katı,21-25 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,0,20000,13500.0
+Çağlayan Mh.,80.0,65.0,1+1,4.0,4,16-20 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,100,15000,15000.0
+Güzeloba Mh.,110.0,100.0,2+1,2.0,2,0,Kombi (Doğalgaz),2.0,1,0,Yok,1,0,0,1000,25000,25000.0
+Güzeloba Mh.,105.0,90.0,2+1,2.0,Villa Tipi,21-25 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,0,20000,20000.0
+Güzeloba Mh.,65.0,60.0,1+1,6.0,Yüksek Giriş,11-15 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,1,0,1000,19000,19000.0
+Çağlayan Mh.,70.0,60.0,1+1,3.0,3,4,Klima,1.0,1,1,Açık Otopark,1,0,0,0,20000,20000.0
+Fener Mah.,210.0,190.0,3+1,13.0,11,21-25 arası,Kombi (Doğalgaz),1.0,1,1,Açık & Kapalı Otopark,1,1,0,0,160000,80000.0
+Meydankavağı Mh.,110.0,90.0,2+1,4.0,1,4,Klima,1.0,1,1,Açık Otopark,1,0,0,0,25000,25000.0
+Çağlayan Mh.,45.0,40.0,1+1,4.0,Yüksek Giriş,5-10 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,400,20000,15000.0
+Fener Mah.,180.0,160.0,3+1,14.0,13,16-20 arası,Klima,2.0,1,1,Açık Otopark,0,0,0,700,30000,28000.0
+Güzeloba Mh.,80.0,70.0,2+1,2.0,Yüksek Giriş,16-20 arası,Yok,1.0,1,0,Açık Otopark,0,1,0,50,13000,13000.0
+Altındağ Mh.,130.0,94.0,3+1,7.0,7,31 ve üzeri,Klima,1.0,1,1,Açık Otopark,0,0,0,150,14000,14000.0
+Şirinyalı Mh.,200.0,180.0,4+1,12.0,5,16-20 arası,Kombi (Doğalgaz),2.0,1,1,Açık & Kapalı Otopark,0,1,0,0,0,75000.0
+Muratpaşa Mh.,135.0,125.0,2+1,4.0,3,21-25 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,0,14000,13000.0
+Güzeloba Mh.,85.0,75.0,1+1,2.0,Bahçe Katı,16-20 arası,Kombi (Doğalgaz),1.0,1,0,Açık Otopark,1,1,0,1000,20000,15000.0
+Çağlayan Mh.,190.0,175.0,3+1,9.0,3,5-10 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,0,1,0,1000,70000,35000.0
+Güvenlik Mh.,90.0,75.0,2+1,3.0,2,5-10 arası,Yok,1.0,1,1,Açık Otopark,0,0,0,0,16000,16000.0
+Şirinyalı Mh.,210.0,190.0,5+1,13.0,12,16-20 arası,Yok,2.0,1,1,Açık Otopark,0,0,0,900,0,30000.0
+Gebizli Mah.,100.0,85.0,2+1,6.0,4,11-15 arası,Klima,1.0,1,1,Açık Otopark,1,1,0,0,18500,18500.0
+Fener Mah.,115.0,110.0,3+1,13.0,11,11-15 arası,Klima,1.0,1,1,Açık Otopark,1,1,0,0,25000,25000.0
+Güzeloba Mh.,105.0,90.0,2+1,2.0,1,11-15 arası,Yok,2.0,1,0,Yok,0,0,0,0,17000,17000.0
+Elmalı Mh.,50.0,40.0,1+1,4.0,3,26-30 arası,Klima,1.0,1,1,Yok,1,0,0,70,12500,12500.0
+Güzeloba Mh.,160.0,145.0,3+1,10.0,8,11-15 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,1,1,0,0,47000,47000.0
+Güzeloba Mh.,60.0,50.0,1+1,2.0,Bahçe Katı,11-15 arası,Klima,1.0,1,0,Yok,1,0,0,150,20000,14000.0
+Varlık Mh.,110.0,105.0,3+1,6.0,3,3,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,1,0,0,0,25000.0
+Çağlayan Mh.,200.0,160.0,4+1,6.0,6,16-20 arası,Klima,2.0,1,1,Açık Otopark,1,1,0,0,0,30000.0
+Güzeloba Mh.,55.0,45.0,1+1,2.0,1,2,Klima,1.0,1,0,Yok,0,0,0,0,0,14000.0
+Güzeloba Mh.,55.0,50.0,1+1,2.0,Yüksek Giriş,5-10 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,0,18500,18000.0
+Dutlubahçe Mh.,85.0,80.0,2+1,4.0,Yüksek Giriş,5-10 arası,Klima,1.0,1,1,Açık Otopark,0,0,1,0,13500,13500.0
+Bahçelievler Mh.,250.0,200.0,3+1,8.0,7,16-20 arası,Klima,2.0,1,1,Açık Otopark,0,0,0,0,0,50000.0
+Güzeloba Mh.,55.0,45.0,1+1,8.0,6,0,Klima,1.0,0,1,Kapalı Otopark,1,0,0,0,32500,31000.0
+Sedir Mah.,140.0,130.0,3+1,5.0,4,21-25 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,100,16000,16000.0
+Üçgen Mh.,100.0,85.0,2+1,5.0,2,16-20 arası,Klima,1.0,1,0,Yok,0,0,0,0,13000,13000.0
+Fener Mah.,90.0,85.0,2+1,2.0,1,11-15 arası,Kombi (Doğalgaz),1.0,1,0,Yok,1,0,0,0,50000,26000.0
+Çağlayan Mh.,120.0,110.0,2+1,7.0,3,11-15 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,1,0,0,0,28000.0
+Fener Mah.,90.0,80.0,2+1,3.0,Bahçe Katı,16-20 arası,Klima,1.0,1,0,Yok,1,0,0,0,0,22000.0
+Kızılsaray Mh.,100.0,90.0,2+1,3.0,Yüksek Giriş,21-25 arası,Klima,1.0,1,1,Yok,0,0,0,0,15000,13500.0
+Şirinyalı Mh.,250.0,240.0,4+1,4.0,1,21-25 arası,Klima,2.0,1,0,Yok,0,0,0,0,0,35000.0
+Kızılarık Mh.,100.0,95.0,2+1,5.0,2,5-10 arası,Klima,1.0,1,1,Açık Otopark,0,0,1,0,13000,13000.0
+Fener Mah.,95.0,85.0,2+1,3.0,3,4,Klima,1.0,1,0,Açık Otopark,1,0,1,500,35000,35000.0
+Güzeloba Mh.,55.0,45.0,1+1,3.0,1,11-15 arası,Klima,1.0,1,0,Açık Otopark,1,1,0,250,13500,15000.0
+Mehmetçik Mh.,130.0,125.0,3+1,4.0,Giriş Katı,11-15 arası,Klima,1.0,1,1,Açık Otopark,0,0,1,0,15750,15750.0
+Şirinyalı Mh.,180.0,165.0,3+1,4.0,3,16-20 arası,Yok,1.0,1,1,Açık Otopark,0,0,0,300,0,25000.0
+Güzeloba Mh.,95.0,85.0,2+1,8.0,8,5-10 arası,Klima,1.0,1,1,Açık Otopark,1,1,0,0,0,27000.0
+Meltem Mah.,160.0,150.0,3+1,8.0,4,26-30 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,0,0,800,50000,50000.0
+Konuksever Mah.,70.0,60.0,1+1,4.0,Yüksek Giriş,5-10 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,0,0,12000.0
+Güzeloba Mh.,120.0,95.0,2+1,2.0,Bahçe Katı,2,Klima,1.0,1,1,Açık Otopark,0,0,0,1500,30000,32000.0
+Haşimişcan Mh.,60.0,55.0,1+1,4.0,Bodrum Kat,26-30 arası,Klima,1.0,0,0,Açık Otopark,0,0,0,0,12500,12500.0
+Güzeloba Mh.,120.0,110.0,2+1,2.0,2,5-10 arası,Klima,2.0,1,0,Yok,1,0,0,200,25000,25000.0
+Güzeloba Mh.,70.0,65.0,1+1,3.0,Bahçe Katı,11-15 arası,Klima,1.0,1,0,Açık Otopark,1,1,0,0,15500,15000.0
+Şirinyalı Mh.,175.0,165.0,3+1,4.0,3,21-25 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,0,0,0,250,21000,21000.0
+Kışla Mh.,135.0,125.0,2+1,4.0,1,21-25 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,0,24000,12000.0
+Güzeloba Mh.,200.0,190.0,4+2,2.0,2,16-20 arası,Klima,2.0,1,0,Açık Otopark,0,1,0,350,22000,22000.0
+Mehmetçik Mh.,85.0,80.0,2+1,5.0,3,5-10 arası,Merkezi (Pay Ölçer),2.0,1,1,Açık & Kapalı Otopark,0,1,0,2000,0,20000.0
+Muratpaşa Mh.,75.0,65.0,1+1,5.0,3,11-15 arası,Klima,1.0,0,1,Açık Otopark,0,0,0,0,12500,12500.0
+Fener Mah.,280.0,250.0,4+1,10.0,6,21-25 arası,Klima,3.0,1,1,Açık & Kapalı Otopark,0,0,0,3500,65000,65000.0
+Güzelbağ Mh.,85.0,80.0,2+1,2.0,2,16-20 arası,Klima,1.0,1,0,Yok,0,0,0,0,15000,15000.0
+Gebizli Mah.,70.0,60.0,1+1,5.0,4,0,Klima,1.0,1,1,Kapalı Otopark,1,1,0,350,17000,17000.0
+Yeşilbahçe Mh.,170.0,160.0,3+1,4.0,3,21-25 arası,Yok,1.0,1,0,Açık Otopark,0,0,0,250,25000,26500.0
+Kızılarık Mh.,140.0,120.0,3+1,5.0,2,4,Klima,1.0,1,1,Açık & Kapalı Otopark,1,0,1,200,50000,20000.0
+Yeşilbahçe Mh.,160.0,150.0,3+1,7.0,5,21-25 arası,Yok,1.0,1,1,Açık Otopark,0,1,0,250,20000,20000.0
+Güzeloba Mh.,95.0,75.0,2+1,3.0,Bahçe Katı,11-15 arası,Klima,1.0,1,0,Yok,0,0,0,250,36000,18000.0
+Varlık Mh.,110.0,100.0,2.5+1,7.0,6,21-25 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,100,19000,18000.0
+Gençlik Mh.,155.0,145.0,3+1,4.0,3,21-25 arası,Klima,1.0,1,0,Açık Otopark,1,1,0,0,0,30000.0
+Güzeloba Mh.,65.0,55.0,1+1,2.0,1,2,Kombi (Doğalgaz),1.0,1,0,Açık Otopark,1,0,0,700,20000,20000.0
+Güvenlik Mh.,60.0,50.0,1+1,5.0,Bodrum Kat,0,Klima,1.0,0,1,Açık Otopark,1,0,0,0,0,13500.0
+Yüksekalan Mh.,165.0,150.0,3+1,7.0,6,31 ve üzeri,Klima,1.0,1,1,Yok,0,0,0,0,16000,16000.0
+Güzeloba Mh.,65.0,60.0,1+1,8.0,2,5-10 arası,Klima,1.0,0,1,Açık Otopark,1,1,0,1000,15000,15000.0
+Şirinyalı Mh.,160.0,150.0,2+1,1.0,Yüksek Giriş,11-15 arası,Klima,2.0,1,1,Açık Otopark,1,0,0,200,0,30000.0
+Çağlayan Mh.,70.0,56.0,1+1,4.0,Yüksek Giriş,4,Kombi (Doğalgaz),1.0,1,1,Kapalı Otopark,1,0,0,400,0,22000.0
+Cumhuriyet Mah.,155.0,140.0,3+1,5.0,4,21-25 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,100,12000,12000.0
+Zerdalilik Mah.,160.0,150.0,3+1,4.0,2,21-25 arası,Yok,1.0,1,0,Yok,0,0,0,0,16000,16000.0
+Üçgen Mh.,95.0,90.0,2+1,8.0,4,5-10 arası,Yok,1.0,1,1,Yok,0,0,1,0,18000,18000.0
+Çağlayan Mh.,400.0,350.0,5+1,9.0,9,16-20 arası,Kombi (Doğalgaz),3.0,1,1,Açık & Kapalı Otopark,0,0,0,2000,120000,100000.0
+Fener Mah.,85.0,75.0,2+1,2.0,1,5-10 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,100,30000,26000.0
+Güzeloba Mh.,65.0,60.0,1+1,8.0,6,3,Klima,1.0,0,1,Açık Otopark,0,0,0,700,0,11000.0
+Kızıltoprak Mh.,115.0,110.0,2+1,3.0,Yüksek Giriş,5-10 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,150,12000,12000.0
+Yeşilbahçe Mh.,180.0,165.0,3+1,10.0,6,16-20 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,1,0,0,115000,58000.0
+Güzeloba Mh.,60.0,55.0,1+1,3.0,Bahçe Katı,11-15 arası,Klima,1.0,1,0,Yok,1,0,1,100,30000,17000.0
+Fener Mah.,80.0,75.0,2+1,2.0,Yüksek Giriş,5-10 arası,Klima,1.0,1,0,Yok,1,0,0,100,15000,17500.0
+Şirinyalı Mh.,235.0,200.0,4+1,4.0,4,16-20 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,0,0,0,300,100000,50000.0
+Güzeloluk Mh.,120.0,110.0,3+1,3.0,1,21-25 arası,Yok,1.0,1,0,Açık Otopark,0,1,0,300,16250,15250.0
+Güzeloba Mh.,85.0,70.0,2+1,1.0,1,4,Klima,1.0,1,0,Açık Otopark,1,1,0,1750,30000,30000.0
+Gençlik Mh.,110.0,100.0,2+1,7.0,1,26-30 arası,Klima,1.0,1,0,Yok,1,0,0,0,0,27000.0
+Deniz Mah.,50.0,40.0,1+1,5.0,Giriş Katı,1,Klima,1.0,0,1,Açık Otopark,1,0,0,0,20000,15000.0
+Etiler Mah.,140.0,130.0,3+1,4.0,Bahçe Katı,11-15 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,0,0,13000.0
+Güzeloba Mh.,50.0,45.0,1+1,3.0,Giriş Katı,4,Yok,1.0,1,1,Açık Otopark,0,1,0,750,0,18000.0
+Güzeloba Mh.,70.0,65.0,1+1,3.0,Giriş Katı,16-20 arası,Klima,1.0,1,0,Açık Otopark,1,1,0,10000,13000,15000.0
+Yüksekalan Mh.,160.0,150.0,3+1,2.0,2,16-20 arası,Klima,1.0,1,0,Yok,1,0,0,0,25000,19000.0
+Güzeloba Mh.,70.0,60.0,1+1,2.0,Bahçe Katı,5-10 arası,Klima,1.0,1,0,Açık Otopark,1,1,0,0,19500,19500.0
+Varlık Mh.,135.0,120.0,3+1,7.0,1,26-30 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,200,21000,21000.0
+Çaybaşı Mh.,75.0,70.0,2+1,3.0,2,2,Yok,1.0,1,1,Açık Otopark,0,0,0,250,17000,17000.0
+Güzeloba Mh.,70.0,60.0,1+1,2.0,Bahçe Katı,5-10 arası,Klima,1.0,1,1,Açık Otopark,1,1,0,750,18000,18000.0
+Güzeloba Mh.,65.0,60.0,1+1,3.0,1,3,Klima,1.0,0,0,Yok,1,0,0,0,0,22800.0
+Yeşilbahçe Mh.,140.0,135.0,3+1,12.0,3,16-20 arası,Klima,2.0,1,1,Açık Otopark,1,1,0,850,0,32000.0
+Varlık Mh.,120.0,110.0,2+1,5.0,5,26-30 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,0,0,14000.0
+Güzeloba Mh.,110.0,100.0,2+1,3.0,1,31 ve üzeri,Klima,1.0,1,0,Yok,1,1,0,0,25000,25000.0
+Güvenlik Mh.,145.0,135.0,3+1,7.0,1,16-20 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,350,17000,17000.0
+Güzeloba Mh.,60.0,40.0,1+1,3.0,2,4,Klima,1.0,1,1,Açık Otopark,1,0,0,400,40000,20000.0
+Kışla Mh.,130.0,120.0,2+1,4.0,3,16-20 arası,Şömine,1.0,1,0,Yok,1,0,0,30,12000,15000.0
+Meydankavağı Mh.,140.0,130.0,3+1,10.0,Bahçe Katı,16-20 arası,Klima,1.0,1,1,Açık Otopark,0,1,0,2000,20000,21000.0
+Güzeloba Mh.,65.0,60.0,2+1,5.0,Giriş Katı,11-15 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,150,34000,17000.0
+Haşimişcan Mh.,135.0,125.0,3+1,4.0,3,26-30 arası,Yok,1.0,1,0,Yok,0,0,0,100,12500,12500.0
+Meydankavağı Mh.,150.0,140.0,3+1,4.0,2,11-15 arası,Yok,1.0,1,1,Açık Otopark,0,1,0,250,0,22000.0
+Çağlayan Mh.,160.0,140.0,3+1,10.0,4,11-15 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,1,0,400,60000,30000.0
+Güzelbağ Mh.,90.0,75.0,2+1,2.0,1,11-15 arası,Kombi (Doğalgaz),1.0,1,0,Yok,0,0,0,200,20000,20000.0
+Şirinyalı Mh.,168.0,160.0,3+1,4.0,2,21-25 arası,Kombi (Doğalgaz),1.0,1,0,Açık Otopark,0,0,0,50,25000,25000.0
+Şirinyalı Mh.,110.0,100.0,2+1,4.0,2,16-20 arası,Yok,1.0,1,1,Açık Otopark,0,0,0,0,0,20000.0
+Bayındır Mh.,70.0,60.0,1+1,5.0,1,5-10 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,0,0,14500.0
+Güzeloba Mh.,170.0,155.0,3+1,6.0,5,16-20 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,800,30000,28500.0
+Yeşilbahçe Mh.,150.0,140.0,3+1,11.0,3,16-20 arası,Klima,2.0,1,1,Açık Otopark,1,0,0,0,25000,30000.0
+Altındağ Mh.,130.0,110.0,2+1,8.0,1,21-25 arası,Klima,1.0,1,1,Açık Otopark,0,0,1,200,18000,17000.0
+Haşimişcan Mh.,60.0,55.0,1+1,4.0,Bodrum Kat,26-30 arası,Klima,1.0,0,0,Açık Otopark,0,0,0,0,12500,12000.0
+Meydankavağı Mh.,150.0,140.0,3+1,8.0,1,16-20 arası,Klima,1.0,1,1,Açık Otopark,0,0,1,0,16500,16500.0
+Fener Mah.,165.0,155.0,3+1,8.0,7,16-20 arası,Klima,1.0,1,1,Açık Otopark,1,1,0,300,25000,25000.0
+Kızılarık Mh.,107.0,90.0,2+1,4.0,2,5-10 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,12000,12000.0
+Yenigün Mh.,100.0,85.0,2+1,4.0,4,11-15 arası,Kombi (Doğalgaz),1.0,1,0,Açık Otopark,1,0,0,0,0,18000.0
+Fener Mah.,100.0,96.0,2+1,3.0,1,11-15 arası,Klima,1.0,1,0,Yok,1,0,0,0,0,26000.0
+Fener Mah.,80.0,60.0,2+1,2.0,Bahçe Katı,5-10 arası,Kombi (Doğalgaz),1.0,1,0,Yok,0,1,0,0,50000,22500.0
+Kızılsaray Mh.,60.0,50.0,1+1,3.0,1,16-20 arası,Klima,1.0,1,0,Yok,1,0,0,100,18000,18000.0
+Meltem Mah.,140.0,130.0,3+1,13.0,11,21-25 arası,Klima,2.0,1,1,Yok,0,1,0,400,26000,26000.0
+Soğuksu Mh.,125.0,110.0,3+1,5.0,5,21-25 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,0,15000,15000.0
+Çağlayan Mh.,150.0,135.0,3+1,10.0,9,16-20 arası,Klima,1.0,1,1,Açık Otopark,1,1,0,320,20000,30000.0
+Çağlayan Mh.,55.0,50.0,1+1,4.0,Bahçe Katı,11-15 arası,Klima,1.0,1,1,Açık Otopark,0,1,0,1000,16000,16000.0
+Soğuksu Mh.,300.0,270.0,5+1,13.0,13,11-15 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,1,1,0,400,0,39000.0
+Güzeloba Mh.,160.0,155.0,3+1,8.0,4,5-10 arası,Klima,1.0,1,1,Açık Otopark,0,1,1,1000,20000,20000.0
+Fener Mah.,230.0,200.0,4+1,16.0,Yüksek Giriş,11-15 arası,Kombi (Doğalgaz),3.0,1,1,Açık & Kapalı Otopark,0,1,1,2500,180000,107000.0
+Yeşilbahçe Mh.,145.0,135.0,3+1,8.0,5,11-15 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,1,0,1550,70000,35000.0
+Güzeloba Mh.,120.0,110.0,2+1,2.0,1,5-10 arası,Klima,2.0,0,1,Kapalı Otopark,1,1,1,1800,80000,45000.0
+Güzeloba Mh.,95.0,85.0,2+1,6.0,3,4,Klima,2.0,1,1,Kapalı Otopark,1,1,0,1300,38000,37000.0
+Güzeloba Mh.,60.0,50.0,1+1,2.0,Yüksek Giriş,5-10 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,200,15000,13000.0
+Kızılarık Mh.,135.0,120.0,3+1,5.0,1,4,Klima,1.0,0,1,Yok,0,0,1,0,15000,15000.0
+Güzeloba Mh.,85.0,70.0,2+1,1.0,Giriş Katı,16-20 arası,Klima,1.0,0,1,Açık Otopark,1,1,1,1000,34000,30000.0
+Üçgen Mh.,110.0,100.0,2+1,7.0,4,3,Yok,1.0,1,1,Açık & Kapalı Otopark,0,0,0,0,0,17000.0
+Fener Mah.,90.0,75.0,2+1,15.0,Bahçe Katı,21-25 arası,Kat Kaloriferi,1.0,1,1,Kapalı Otopark,1,1,0,1250,25000,25000.0
+Dutlubahçe Mh.,100.0,90.0,2+1,4.0,Yüksek Giriş,5-10 arası,Klima,1.0,1,1,Açık Otopark,1,1,1,400,15000,15000.0
+Yüksekalan Mh.,75.0,65.0,2+1,3.0,Giriş Katı,1,Kombi (Doğalgaz),1.0,0,0,Kapalı Otopark,1,0,0,250,0,19000.0
+Çağlayan Mh.,320.0,290.0,4+2,6.0,6,16-20 arası,Klima,3.0,1,1,Açık Otopark,0,1,0,0,30000,27000.0
+Cumhuriyet Mah.,95.0,90.0,2+1,4.0,Yüksek Giriş,16-20 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,100,22000,11000.0
+Meltem Mah.,125.0,120.0,3+1,6.0,1,16-20 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,1,1,0,0,27000,32000.0
+Güzeloba Mh.,150.0,130.0,3+1,7.0,3,11-15 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,0,0,0,600,25000,25000.0
+Çağlayan Mh.,230.0,200.0,6+1,5.0,Bahçe Katı,16-20 arası,Klima,3.0,1,1,Açık & Kapalı Otopark,1,0,0,150,45000,22500.0
+Sinan Mah.,55.0,45.0,1+1,5.0,4,0,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,0,0,0,0,16500,16500.0
+Yeşilbahçe Mh.,160.0,140.0,3+1,4.0,1,16-20 arası,Kombi (Doğalgaz),1.0,1,0,Açık Otopark,1,0,0,100,40000,28500.0
+Güzeloba Mh.,150.0,125.0,3+1,12.0,12,16-20 arası,Klima,1.0,1,1,Açık & Kapalı Otopark,1,0,0,500,60000,20000.0
+Şirinyalı Mh.,170.0,160.0,3+1,4.0,3,21-25 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,200,25000,25000.0
+Güzeloba Mh.,55.0,50.0,1+1,3.0,Bahçe Katı,5-10 arası,Kombi (Doğalgaz),1.0,1,1,Kapalı Otopark,1,0,0,0,18000,20000.0
+Gebizli Mah.,149.0,130.0,3+1,6.0,4,4,Klima,2.0,1,1,Kapalı Otopark,0,1,0,2600,0,20000.0
+Cumhuriyet Mah.,125.0,115.0,3+1,4.0,4,21-25 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,50,5000,14500.0
+Fener Mah.,270.0,240.0,6+1,11.0,11,21-25 arası,Klima,2.0,1,1,Açık Otopark,0,0,0,500,34000,36000.0
+Demircikara Mah.,170.0,155.0,3+1,9.0,6,16-20 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,0,0,0,350,28000,28000.0
+Kızıltoprak Mh.,90.0,85.0,2+1,4.0,1,5-10 arası,Yok,1.0,1,1,Açık Otopark,0,0,0,350,17250,17000.0
+Üçgen Mh.,95.0,90.0,2+1,6.0,6,26-30 arası,Klima,1.0,1,1,Yok,0,0,0,0,15000,15000.0
+Doğuyaka Mh.,140.0,130.0,3+1,4.0,1,5-10 arası,Kombi (Doğalgaz),2.0,1,1,Kapalı Otopark,0,0,0,300,21000,21000.0
+Meydankavağı Mh.,220.0,200.0,3+1,3.0,2,5-10 arası,Kombi (Doğalgaz),2.0,1,1,Kapalı Otopark,0,1,0,1500,40000,40000.0
+Gençlik Mh.,95.0,90.0,1+1,3.0,1,26-30 arası,Klima,1.0,1,0,Yok,1,0,0,0,0,25000.0
+Kızılarık Mh.,145.0,140.0,3+1,7.0,3,11-15 arası,Yok,1.0,1,1,Açık Otopark,0,1,0,450,17500,17500.0
+Güzeloba Mh.,105.0,100.0,2+1,13.0,4,21-25 arası,Kombi (Doğalgaz),1.0,1,0,Yok,0,1,0,0,0,24000.0
+Gebizli Mah.,75.0,70.0,2+1,4.0,Yüksek Giriş,5-10 arası,Klima,1.0,1,1,Kapalı Otopark,0,1,0,0,30000,12000.0
+Bayındır Mh.,140.0,130.0,3+1,7.0,6,16-20 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,0,0,200,25000,25000.0
+Yüksekalan Mh.,140.0,135.0,3+1,6.0,2,26-30 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,0,22000,22000.0
+Bayındır Mh.,130.0,125.0,3+1,4.0,2,16-20 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,0,0,0,250,25000,25000.0
+Etiler Mah.,90.0,85.0,2+1,4.0,Giriş Katı,5-10 arası,Klima,1.0,0,0,Açık Otopark,1,0,0,0,0,12750.0
+Konuksever Mah.,95.0,85.0,2+1,3.0,Yüksek Giriş,11-15 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,150,10750,10750.0
+Soğuksu Mh.,145.0,140.0,3+1,5.0,1,16-20 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,0,0,20000.0
+Sedir Mah.,95.0,90.0,2+1,4.0,3,16-20 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,0,13000,13000.0
+Meydankavağı Mh.,150.0,135.0,3+1,8.0,3,11-15 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,0,1,0,1000,27000,27000.0
+Güzeloba Mh.,115.0,100.0,2+1,8.0,8,11-15 arası,Klima,1.0,1,1,Açık Otopark,1,1,0,250,30000,27000.0
+Kızıltoprak Mh.,90.0,75.0,1+1,6.0,Yüksek Giriş,0,Klima,1.0,1,1,Kapalı Otopark,1,0,0,1500,60000,30000.0
+Tahılpazarı Mh.,80.0,70.0,2+1,4.0,3,26-30 arası,Yok,1.0,1,0,Açık Otopark,1,0,1,0,20000,20000.0
+Fener Mah.,60.0,55.0,1+1,3.0,Bahçe Katı,11-15 arası,Klima,1.0,1,0,Yok,0,0,0,0,13000,13000.0
+Doğuyaka Mh.,100.0,90.0,2+1,4.0,3,4,Klima,2.0,1,1,Açık Otopark,0,0,0,800,23000,23000.0
+Güzelbağ Mh.,110.0,90.0,2+1,3.0,Giriş Katı,5-10 arası,Klima,1.0,1,0,Açık Otopark,1,0,1,75,0,20000.0
+Güzeloba Mh.,55.0,50.0,1+1,2.0,Giriş Katı,1,Klima,1.0,1,0,Açık Otopark,1,1,0,0,0,17500.0
+Güzeloba Mh.,65.0,60.0,1+1,2.0,2,5-10 arası,Klima,1.0,1,1,Açık Otopark,1,1,0,250,18000,18000.0
+Bayındır Mh.,90.0,80.0,1+1,7.0,7,16-20 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,0,15000.0
+Güzeloba Mh.,60.0,50.0,1+1,1.0,Bahçe Katı,26-30 arası,Klima,1.0,1,0,Açık & Kapalı Otopark,0,1,0,3990,20000,19000.0
+Yenigün Mh.,110.0,100.0,2+1,4.0,1,16-20 arası,Klima,1.0,1,0,Yok,0,0,1,0,24000,12500.0
+Konuksever Mah.,60.0,50.0,Stüdyo (1+0),5.0,Giriş Katı,11-15 arası,Klima,1.0,0,1,Açık Otopark,1,0,0,0,0,11000.0
+Kızılarık Mh.,90.0,75.0,2+1,4.0,Yüksek Giriş,4,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,0,1,0,300,12000,11995.0
+Gençlik Mh.,220.0,190.0,3+1,13.0,2,21-25 arası,Kombi (Doğalgaz),3.0,1,1,Açık & Kapalı Otopark,1,1,0,1600,120000,60000.0
+Haşimişcan Mh.,100.0,90.0,3+1,6.0,4,31 ve üzeri,Klima,1.0,1,1,Yok,1,0,0,150,40000,25000.0
+Üçgen Mh.,45.0,35.0,1+1,6.0,Giriş Katı,0,Kombi (Doğalgaz),1.0,0,1,Kapalı Otopark,0,0,1,0,15000,15000.0
+Güzeloluk Mh.,200.0,185.0,4+1,7.0,1,5-10 arası,Kombi (Doğalgaz),2.0,1,1,Kapalı Otopark,0,1,0,0,0,55000.0
+Yüksekalan Mh.,80.0,65.0,2+1,2.0,2,16-20 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,100,16000,15000.0
+Deniz Mah.,90.0,85.0,2+1,4.0,Giriş Katı,26-30 arası,Klima,1.0,1,0,Yok,1,0,0,70,18000,18000.0
+Gençlik Mh.,150.0,140.0,3+1,6.0,2,31 ve üzeri,Klima,1.0,1,1,Açık Otopark,0,0,0,450,20000,20000.0
+Gençlik Mh.,170.0,150.0,3+1,6.0,1,21-25 arası,Klima,1.0,1,1,Yok,0,1,0,0,40000,40000.0
+Deniz Mah.,170.0,160.0,3+1,5.0,3,0,Kombi (Doğalgaz),2.0,1,1,Kapalı Otopark,0,1,0,1200,35000,35000.0
+Güzeloba Mh.,165.0,150.0,3+1,10.0,5,21-25 arası,Klima,1.0,1,1,Açık Otopark,0,1,0,650,30000,23000.0
+Gençlik Mh.,110.0,100.0,2+1,5.0,1,31 ve üzeri,Klima,1.0,1,1,Açık Otopark,1,0,0,0,44000,22000.0
+Kızılarık Mh.,100.0,90.0,2+1,7.0,4,4,Klima,1.0,1,1,Kapalı Otopark,0,0,0,0,0,15500.0
+Dutlubahçe Mh.,150.0,140.0,3+1,4.0,2,16-20 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,100,16000,16000.0
+Güzeloba Mh.,155.0,140.0,3+1,11.0,4,21-25 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,250,0,40000.0
+Yeşilbahçe Mh.,180.0,170.0,4+1,10.0,1,16-20 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,0,1,0,0,0,30000.0
+Güzeloba Mh.,55.0,45.0,1+1,1.0,Yüksek Giriş,2,Klima,1.0,1,0,Açık Otopark,1,0,0,250,15000,15000.0
+Konuksever Mah.,125.0,120.0,3+1,10.0,5,16-20 arası,Klima,1.0,1,1,Açık Otopark,0,1,1,50,17000,17000.0
+Çaybaşı Mh.,170.0,140.0,3+1,7.0,6,21-25 arası,Klima,2.0,0,1,Açık Otopark,1,0,1,200,24000,24000.0
+Kızılarık Mh.,90.0,85.0,2+1,4.0,2,4,Klima,2.0,1,1,Açık Otopark,1,0,0,0,14000,13999.0
+Güzeloba Mh.,165.0,145.0,3+1,8.0,6,16-20 arası,Klima,2.0,1,1,Açık Otopark,1,1,0,800,30000,30000.0
+Meydankavağı Mh.,130.0,120.0,3+1,3.0,1,11-15 arası,Kombi (Doğalgaz),1.0,1,0,Açık Otopark,0,0,0,0,0,23000.0
+Kızılarık Mh.,130.0,120.0,2+1,4.0,3,11-15 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,0,12000.0
+Yıldız Mh.,110.0,100.0,2+1,6.0,1,21-25 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,200,18000,16000.0
+Güzeloba Mh.,65.0,55.0,2+1,3.0,Bahçe Katı,1,Klima,1.0,1,0,Açık Otopark,1,1,0,0,0,38500.0
+Güzeloba Mh.,110.0,90.0,2+1,2.0,1,2,Kombi (Doğalgaz),2.0,1,0,Açık Otopark,1,0,0,0,45000,22500.0
+Güzeloba Mh.,120.0,105.0,3+1,2.0,2,11-15 arası,Klima,1.0,1,0,Yok,0,0,0,200,19000,19000.0
+Dutlubahçe Mh.,135.0,120.0,3+1,3.0,1,11-15 arası,Klima,1.0,1,1,Açık Otopark,0,0,1,0,0,18000.0
+Güzeloba Mh.,100.0,85.0,2+1,3.0,1,11-15 arası,Kombi (Doğalgaz),1.0,1,0,Açık Otopark,1,1,1,0,50000,27000.0
+Meydankavağı Mh.,230.0,178.0,4+1,5.0,2,5-10 arası,Merkezi (Pay Ölçer),2.0,1,1,Açık Otopark,1,1,0,3000,100000,50000.0
+Güzeloba Mh.,300.0,240.0,4+1,3.0,2,16-20 arası,Kombi (Doğalgaz),2.0,1,0,Açık Otopark,1,1,0,950,0,120000.0
+Üçgen Mh.,125.0,115.0,2+1,4.0,Giriş Katı,16-20 arası,Klima,2.0,1,0,Yok,0,0,0,100,11500,11500.0
+Bayındır Mh.,135.0,120.0,3+1,7.0,4,11-15 arası,Klima,2.0,1,1,Açık Otopark,1,0,0,200,35000,35000.0
+Fener Mah.,155.0,145.0,3+1,8.0,8,16-20 arası,Merkezi (Pay Ölçer),1.0,1,1,Açık Otopark,0,1,0,3500,55000,55000.0
+Güzeloba Mh.,60.0,55.0,1+1,2.0,1,2,Klima,1.0,1,0,Açık Otopark,1,0,0,850,30000,17000.0
+Yeşildere Mh.,120.0,110.0,2+1,4.0,3,1,Klima,1.0,1,1,Açık Otopark,1,0,0,100,19000,18500.0
+Şirinyalı Mh.,165.0,150.0,3+1,13.0,13,16-20 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,1,0,0,1000,0,36000.0
+Kızılarık Mh.,95.0,85.0,2+1,4.0,2,4,Yok,1.0,1,1,Açık Otopark,0,0,0,0,12000,12000.0
+Çağlayan Mh.,160.0,150.0,3+1,9.0,2,11-15 arası,Klima,2.0,1,1,Açık Otopark,1,1,0,0,22000,22000.0
+Güzeloba Mh.,130.0,125.0,3+1,5.0,3,4,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,0,0,0,0,25000,25000.0
+Elmalı Mh.,88.0,85.0,2+1,4.0,3,26-30 arası,Klima,1.0,1,1,Yok,0,0,0,100,21000,22000.0
+Çağlayan Mh.,100.0,95.0,2+1,12.0,9,21-25 arası,Klima,1.0,1,1,Açık Otopark,1,1,0,500,0,30000.0
+Kışla Mh.,50.0,45.0,1+1,4.0,1,3,Kombi (Doğalgaz),1.0,1,1,Yok,1,0,0,0,0,17800.0
+Dutlubahçe Mh.,80.0,70.0,2+1,4.0,Giriş Katı,5-10 arası,Yok,1.0,1,0,Açık Otopark,0,0,0,0,0,12000.0
+Altındağ Mh.,190.0,180.0,3+1,5.0,2,16-20 arası,Klima,1.0,1,1,Yok,1,0,0,0,0,20000.0
+Ermenek Mah.,210.0,160.0,4+2,2.0,2,16-20 arası,Klima,3.0,1,0,Açık Otopark,0,0,0,0,45000,45000.0
+Gençlik Mh.,130.0,120.0,3+1,5.0,2,31 ve üzeri,Klima,1.0,1,0,Yok,0,0,0,100,15000,15000.0
+Şirinyalı Mh.,95.0,85.0,2+1,12.0,9,16-20 arası,Klima,1.0,1,1,Açık Otopark,1,1,0,400,25000,25000.0
+Ermenek Mah.,100.0,95.0,2+1,3.0,1,1,Klima,2.0,1,0,Yok,1,0,0,0,0,25000.0
+Gençlik Mh.,350.0,280.0,4+2,5.0,5,16-20 arası,Kombi (Doğalgaz),3.0,1,1,Açık Otopark,0,0,0,1100,70000,70000.0
+Meydankavağı Mh.,220.0,200.0,3+1,3.0,1,5-10 arası,Kombi (Doğalgaz),2.0,1,1,Kapalı Otopark,0,1,0,1500,40000,40000.0
+Soğuksu Mh.,110.0,100.0,2+1,7.0,Giriş Katı,11-15 arası,Yok,1.0,1,1,Açık Otopark,0,0,0,100,16000,15000.0
+Zerdalilik Mah.,145.0,135.0,3+1,4.0,2,26-30 arası,Yok,1.0,1,0,Açık Otopark,0,0,0,100,20000,20000.0
+Güzeloba Mh.,200.0,180.0,5+1,3.0,2,5-10 arası,Klima,2.0,1,0,Açık Otopark,0,0,0,0,0,25000.0
+Meydankavağı Mh.,155.0,150.0,3+1,9.0,3,16-20 arası,Klima,1.0,1,1,Açık Otopark,0,1,0,750,25000,25000.0
+Sinan Mah.,140.0,120.0,2+1,4.0,2,21-25 arası,Yok,1.0,1,0,Açık Otopark,0,0,0,250,30000,15000.0
+Yenigün Mh.,180.0,160.0,6+1,4.0,4,16-20 arası,Klima,2.0,1,1,Açık Otopark,1,0,1,150,75000,25000.0
+Muratpaşa Mh.,120.0,115.0,3+1,7.0,2,11-15 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,0,0,0,200,15000,15000.0
+Kışla Mh.,75.0,70.0,1+1,3.0,1,5-10 arası,Klima,1.0,0,0,Yok,1,0,1,200,5000,13000.0
+Konuksever Mah.,165.0,155.0,3+1,3.0,1,11-15 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,150,15750,15750.0
+Bahçelievler Mh.,330.0,280.0,4+1,7.0,7,11-15 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,0,0,0,500,0,61000.0
+Sedir Mah.,95.0,90.0,2+1,4.0,4,11-15 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,0,18000,18000.0
+Çağlayan Mh.,110.0,100.0,2+1,4.0,1,11-15 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,450,0,28000.0
+Güzeloba Mh.,180.0,150.0,3+1,2.0,Çatı Katı,5-10 arası,Klima,2.0,1,0,Açık Otopark,0,0,0,0,0,31000.0
+Bahçelievler Mh.,135.0,125.0,2+1,4.0,1,26-30 arası,Yok,1.0,1,0,Açık Otopark,0,0,0,0,19500,19500.0
+Meydankavağı Mh.,196.0,174.0,3+1,7.0,7,11-15 arası,Klima,2.0,1,1,Açık Otopark,1,0,0,0,0,29250.0
+Kızılarık Mh.,90.0,80.0,2+1,4.0,1,5-10 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,18000,18000.0
+Güzeloba Mh.,200.0,170.0,3+1,2.0,2,26-30 arası,Klima,1.0,1,0,Açık Otopark,0,1,0,1400,30000,30000.0
+Konuksever Mah.,120.0,110.0,2+1,3.0,1,11-15 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,150,15000,15000.0
+Çağlayan Mh.,135.0,130.0,3+1,4.0,2,11-15 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,0,0,0,200,25000,25000.0
+Gebizli Mah.,155.0,145.0,3+1,4.0,4,5-10 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,200,40000,20000.0
+Şirinyalı Mh.,120.0,110.0,2+1,5.0,3,5-10 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,1,0,0,500,70000,32000.0
+Gebizli Mah.,50.0,40.0,1+1,11.0,Yüksek Giriş,21-25 arası,Klima,1.0,0,1,Açık Otopark,0,0,0,0,0,10500.0
+Çağlayan Mh.,150.0,135.0,2+1,9.0,Bahçe Katı,16-20 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,1,0,1300,0,20000.0
+Kızıltoprak Mh.,150.0,140.0,3+1,4.0,2,5-10 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,19500,20000.0
+Sedir Mah.,100.0,90.0,2+1,5.0,4,3,Klima,1.0,1,1,Açık Otopark,0,0,1,100,14000,14000.0
+Varlık Mh.,107.0,102.0,3+1,6.0,3,3,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,0,0,200,0,25000.0
+Şirinyalı Mh.,180.0,170.0,3+1,2.0,1,11-15 arası,Kombi (Doğalgaz),1.0,1,0,Yok,0,0,0,200,0,40000.0
+Çaybaşı Mh.,85.0,80.0,2+1,5.0,3,5-10 arası,Klima,1.0,0,1,Açık Otopark,1,0,0,0,0,22500.0
+Gençlik Mh.,120.0,110.0,3+1,4.0,4,31 ve üzeri,Klima,1.0,1,0,Açık & Kapalı Otopark,0,0,1,0,0,14000.0
+Güzeloba Mh.,90.0,82.0,2+1,2.0,1,5-10 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,0,0,26000.0
+Meydankavağı Mh.,120.0,110.0,2+1,4.0,1,16-20 arası,Klima,1.0,1,1,Yok,0,0,0,0,15000,16000.0
+Yeşilbahçe Mh.,168.0,145.0,1+1,6.0,6,16-20 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,0,1,0,350,17000,15000.0
+Güzeloba Mh.,95.0,85.0,2+1,7.0,2,11-15 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,0,0,800,0,30000.0
+Güzeloba Mh.,95.0,85.0,2+1,2.0,1,5-10 arası,Yok,2.0,1,0,Yok,0,0,0,1000,20000,20000.0
+Bahçelievler Mh.,200.0,180.0,3+1,7.0,5,16-20 arası,Kat Kaloriferi,1.0,1,1,Açık Otopark,1,0,1,600,40000,36000.0
+Çağlayan Mh.,120.0,110.0,4+1,2.0,Yüksek Giriş,5-10 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,0,0,35000.0
+Soğuksu Mh.,115.0,110.0,2+1,4.0,4,21-25 arası,Fancoil Ünitesi,1.0,1,0,Açık Otopark,0,0,0,0,14000,14000.0
+Şirinyalı Mh.,230.0,210.0,5+1,13.0,12,21-25 arası,Klima,2.0,1,1,Açık Otopark,0,1,0,0,0,30000.0
+Güzeloba Mh.,100.0,90.0,2+1,2.0,2,21-25 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,100,50000,25000.0
+Yenigün Mh.,135.0,110.0,3+1,3.0,3,16-20 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,0,0,16000.0
+Kışla Mh.,200.0,180.0,3+1,2.0,2,31 ve üzeri,Klima,1.0,1,0,Yok,0,0,0,50,20000,22000.0
+Güzeloba Mh.,170.0,150.0,3+1,8.0,6,11-15 arası,Klima,1.0,1,1,Açık & Kapalı Otopark,0,1,0,1000,32500,30000.0
+Yenigün Mh.,145.0,140.0,3+1,4.0,2,11-15 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,0,15500,15500.0
+Fener Mah.,160.0,145.0,3+1,10.0,3,16-20 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,1000,50000,30000.0
+Kızılsaray Mh.,120.0,110.0,2+1,6.0,4,21-25 arası,Klima,1.0,1,1,Yok,0,0,0,0,14000,14000.0
+Bayındır Mh.,145.0,130.0,3+1,4.0,3,21-25 arası,Yok,1.0,1,0,Açık Otopark,0,0,0,100,15000,15000.0
+Altındağ Mh.,120.0,100.0,2+1,4.0,Yüksek Giriş,11-15 arası,Yok,1.0,1,1,Açık Otopark,0,0,0,100,12000,12000.0
+Deniz Mah.,120.0,110.0,2+1,5.0,Giriş Katı,1,Klima,1.0,1,1,Açık Otopark,1,0,0,0,46000,23000.0
+Üçgen Mh.,90.0,85.0,2+1,3.0,1,21-25 arası,Klima,1.0,1,0,Yok,1,0,0,50,15000,12000.0
+Gençlik Mh.,140.0,120.0,3+1,5.0,2,31 ve üzeri,Soba,1.0,1,0,Yok,0,0,0,0,15000,16000.0
+Güzeloba Mh.,50.0,45.0,1+1,3.0,1,1,Klima,1.0,1,1,Yok,1,0,0,0,25000,25000.0
+Etiler Mah.,105.0,95.0,2+1,3.0,3,16-20 arası,Yok,1.0,1,0,Açık Otopark,0,0,0,0,13000,13000.0
+Bayındır Mh.,150.0,145.0,3+1,7.0,6,16-20 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,250,25000,25000.0
+Meydankavağı Mh.,200.0,185.0,3+1,9.0,6,11-15 arası,Klima,2.0,1,1,Açık Otopark,0,0,0,0,0,26500.0
+Kızıltoprak Mh.,95.0,80.0,2+1,5.0,2,5-10 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,15000,15000.0
+Çağlayan Mh.,250.0,240.0,5+1,4.0,4,11-15 arası,Klima,2.0,1,1,Açık Otopark,0,0,0,0,0,23000.0
+Fener Mah.,165.0,145.0,3+1,11.0,2,16-20 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,1,0,0,0,40000.0
+Güzeloba Mh.,55.0,50.0,1+1,4.0,Giriş Katı,5-10 arası,Klima,1.0,0,1,Kapalı Otopark,1,0,0,1950,22500,22500.0
+Kızılarık Mh.,85.0,75.0,2+1,4.0,Yüksek Giriş,5-10 arası,Klima,1.0,0,1,Kapalı Otopark,0,1,0,200,12500,12500.0
+Fener Mah.,150.0,130.0,3+1,8.0,Bahçe Katı,5-10 arası,Yerden Isıtma,2.0,1,1,Kapalı Otopark,0,1,1,2500,0,50000.0
+Deniz Mah.,75.0,65.0,2+1,4.0,Giriş Katı,4,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,0,0,150,50000,25000.0
+Şirinyalı Mh.,120.0,100.0,3+1,4.0,1,21-25 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,50000,26000.0
+Bayındır Mh.,100.0,90.0,2+1,5.0,4,26-30 arası,Klima,1.0,1,0,Açık Otopark,1,0,1,50,18000,18000.0
+Konuksever Mah.,90.0,85.0,2+1,4.0,1,11-15 arası,Yok,1.0,1,0,Açık Otopark,0,0,0,100,11000,11000.0
+Çağlayan Mh.,120.0,110.0,2+1,4.0,1,5-10 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,450,0,28000.0
+Güzeloba Mh.,55.0,50.0,1+1,2.0,Giriş Katı,5-10 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,1000,18000,18000.0
+Kızılarık Mh.,140.0,120.0,3+1,5.0,2,5-10 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,0,0,1,250,20000,20000.0
+Fener Mah.,170.0,160.0,3+1,9.0,2,21-25 arası,Klima,1.0,1,1,Açık Otopark,0,1,0,2300,30000,28000.0
+Kışla Mh.,80.0,70.0,2+1,3.0,1,21-25 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,0,0,14000.0
+Güvenlik Mh.,65.0,60.0,1+1,6.0,1,5-10 arası,Kombi (Doğalgaz),1.0,0,0,Yok,1,0,0,0,0,14250.0
+Balbey Mah.,65.0,55.0,1+1,4.0,3,21-25 arası,Klima,1.0,0,1,Yok,1,0,0,150,14500,14500.0
+Deniz Mah.,170.0,160.0,3+1,5.0,3,0,Kombi (Doğalgaz),2.0,1,1,Kapalı Otopark,0,1,0,1200,35000,35000.0
+Güvenlik Mh.,110.0,100.0,2+1,3.0,2,26-30 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,100,12500,12500.0
+Şirinyalı Mh.,165.0,160.0,3+1,9.0,1,11-15 arası,Yok,2.0,1,1,Açık Otopark,0,1,0,2000,23000,23000.0
+Deniz Mah.,85.0,80.0,2+1,6.0,2,31 ve üzeri,Klima,1.0,1,1,Yok,1,0,0,0,0,25250.0
+Güzeloba Mh.,120.0,100.0,2+1,7.0,5,11-15 arası,Klima,1.0,1,1,Açık Otopark,0,1,0,0,15000,17000.0
+Ermenek Mah.,60.0,55.0,1+1,4.0,Giriş Katı,11-15 arası,Kombi (Doğalgaz),1.0,1,1,Yok,1,0,0,0,0,17800.0
+Güzeloba Mh.,85.0,80.0,2+1,2.0,1,5-10 arası,Klima,1.0,1,0,Yok,0,0,0,100,15000,15000.0
+Güzeloba Mh.,85.0,75.0,2+1,2.0,Zemin Kat,2,Kombi (Doğalgaz),1.0,1,0,Yok,0,0,1,700,30000,22500.0
+Muratpaşa Mh.,135.0,115.0,3+1,4.0,2,5-10 arası,Klima,2.0,1,1,Açık Otopark,0,0,0,200,20000,20000.0
+Demircikara Mah.,130.0,110.0,3+1,4.0,1,21-25 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,100,17000,16000.0
+Güzeloba Mh.,130.0,120.0,3+1,5.0,3,11-15 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,0,0,0,600,25000,25000.0
+Güvenlik Mh.,125.0,110.0,2+1,3.0,3,16-20 arası,Yok,2.0,1,0,Yok,0,0,0,0,0,14000.0
+Haşimişcan Mh.,105.0,100.0,2+1,7.0,7,21-25 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,0,0,85250.0
+Kızıltoprak Mh.,110.0,90.0,3+1,4.0,Giriş Katı,5-10 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,0,0,0,23000,19500.0
+Güzeloba Mh.,110.0,100.0,2+1,2.0,Bahçe Katı,0,Yerden Isıtma,2.0,1,1,Kapalı Otopark,1,1,0,0,100000,55000.0
+Etiler Mah.,75.0,70.0,2+1,4.0,4,0,Klima,1.0,1,1,Açık Otopark,0,0,0,0,16000,16000.0
+Bahçelievler Mh.,110.0,90.0,2+1,5.0,Yüksek Giriş,5-10 arası,Klima,2.0,1,1,Kapalı Otopark,1,0,0,200,21000,21000.0
+Çağlayan Mh.,150.0,130.0,2+1,3.0,Bahçe Katı,5-10 arası,Klima,3.0,1,0,Açık Otopark,1,0,0,0,38000,200000.0
+Güzeloba Mh.,145.0,130.0,3+1,9.0,6,16-20 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,400,25000,25000.0
+Güzelbağ Mh.,180.0,160.0,4+1,1.0,Giriş Katı,11-15 arası,Güneş Enerjisi,2.0,1,0,Açık Otopark,0,0,0,0,0,13000.0
+Gebizli Mah.,100.0,90.0,2+1,5.0,5,11-15 arası,Klima,1.0,1,1,Yok,0,0,0,50,12000,12000.0
+Çağlayan Mh.,250.0,230.0,3+1,3.0,2,5-10 arası,Kombi (Doğalgaz),2.0,1,1,Kapalı Otopark,1,1,0,0,0,200000.0
+Güzeloba Mh.,50.0,45.0,1+1,4.0,1,2,Klima,1.0,1,1,Kapalı Otopark,0,1,0,300,22000,22000.0
+Çağlayan Mh.,200.0,180.0,3+1,8.0,6,11-15 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,1,1,0,300,60000,38000.0
+Bahçelievler Mh.,240.0,220.0,4+1,4.0,4,1,Klima,3.0,1,1,Açık Otopark,1,0,0,0,50000,40000.0
+Güzeloba Mh.,60.0,50.0,1+1,3.0,2,1,Klima,1.0,0,0,Yok,1,0,0,0,17000,17000.0
+Fener Mah.,170.0,160.0,3+1,10.0,9,16-20 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,0,0,0,850,75000,75000.0
+Bayındır Mh.,160.0,145.0,3+1,6.0,5,16-20 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,0,0,0,0,25000.0
+Üçgen Mh.,145.0,135.0,3+1,4.0,2,21-25 arası,Klima,1.0,1,0,Yok,0,0,0,0,17000,16000.0
+Güzeloba Mh.,55.0,48.0,1+1,2.0,1,4,Klima,1.0,0,0,Açık Otopark,1,0,0,0,500,15000.0
+Güzeloba Mh.,145.0,130.0,3+1,2.0,2,5-10 arası,Klima,1.0,1,1,Yok,0,0,0,450,21000,21000.0
+Kızılarık Mh.,280.0,250.0,6+1,4.0,4,5-10 arası,Klima,4.0,1,1,Açık Otopark,0,0,0,0,30000,30000.0
+Şirinyalı Mh.,280.0,220.0,4+1,10.0,10,16-20 arası,Klima,3.0,1,1,Açık Otopark,1,0,0,0,0,33000.0
+Güzeloba Mh.,200.0,170.0,4+1,3.0,3,16-20 arası,Kombi (Doğalgaz),2.0,1,0,Açık Otopark,1,1,0,700,0,120000.0
+Soğuksu Mh.,65.0,50.0,1+1,4.0,4,26-30 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,0,11000,11000.0
+Fener Mah.,95.0,90.0,2+1,10.0,6,5-10 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,500,25000,25000.0
+Tahılpazarı Mh.,150.0,130.0,3+1,4.0,4,26-30 arası,Klima,1.0,1,1,Yok,0,0,0,0,20000,20000.0
+Güzeloba Mh.,120.0,100.0,2+1,2.0,2,16-20 arası,Yok,1.0,1,0,Açık Otopark,0,0,0,0,17000,16000.0
+Konuksever Mah.,110.0,100.0,2+1,4.0,1,5-10 arası,Yok,2.0,1,1,Açık Otopark,1,0,1,0,0,18000.0
+Güzeloba Mh.,55.0,50.0,1+1,3.0,Bahçe Katı,1,Klima,1.0,1,1,Açık Otopark,0,1,0,950,15000,15000.0
+Çağlayan Mh.,120.0,110.0,2+1,7.0,4,5-10 arası,Klima,1.0,1,1,Açık Otopark,1,1,0,1200,0,28000.0
+Altındağ Mh.,125.0,115.0,2+1,4.0,3,21-25 arası,Klima,1.0,1,0,Yok,1,0,0,150,20000,17250.0
+Soğuksu Mh.,80.0,75.0,1+1,4.0,Giriş Katı,31 ve üzeri,Kombi (Doğalgaz),1.0,1,0,Açık Otopark,1,0,0,100,15000,15000.0
+Yüksekalan Mh.,40.0,35.0,1+1,4.0,3,5-10 arası,Klima,1.0,0,0,Yok,1,0,0,50,500,10750.0
+Güzelbağ Mh.,80.0,75.0,2+0,3.0,Çatı Katı,11-15 arası,Klima,1.0,1,0,Yok,1,0,0,50,500,10750.0
+Yenigöl Mh.,100.0,90.0,2+0,4.0,2,11-15 arası,Klima,1.0,1,0,Yok,1,0,0,50,500,12500.0
+Konuksever Mah.,100.0,90.0,2+1,4.0,4,11-15 arası,Yok,1.0,1,0,Yok,0,0,0,0,12000,12000.0
+Dutlubahçe Mh.,240.0,230.0,5+1,3.0,3,5-10 arası,Kombi (Doğalgaz),1.0,1,0,Açık Otopark,1,0,0,50,18000,18000.0
+Gebizli Mah.,135.0,120.0,3+1,11.0,6,16-20 arası,Klima,1.0,1,1,Açık Otopark,0,1,1,500,25000,15000.0
+Güzeloba Mh.,115.0,110.0,3+1,7.0,4,16-20 arası,Klima,2.0,1,1,Açık Otopark,1,1,0,0,0,24700.0
+Güzeloba Mh.,65.0,60.0,1+1,2.0,2,5-10 arası,Klima,1.0,1,1,Açık Otopark,1,1,0,250,18000,18000.0
+Kızılarık Mh.,100.0,90.0,2+1,4.0,4,3,Klima,1.0,1,1,Açık Otopark,1,0,0,0,0,18000.0
+Şirinyalı Mh.,180.0,160.0,3+1,8.0,8,26-30 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,0,0,0,0,60000,53000.0
+Güzeloluk Mh.,145.0,130.0,3+1,4.0,4,11-15 arası,Yok,3.0,1,1,Açık Otopark,0,0,0,750,25000,25000.0
+Yenigün Mh.,140.0,135.0,3+1,5.0,3,11-15 arası,Klima,1.0,1,0,Açık Otopark,0,1,0,0,0,15000.0
+Sedir Mah.,125.0,120.0,3+1,5.0,5,11-15 arası,Klima,2.0,1,1,Açık Otopark,0,0,0,0,12000,12000.0
+Bahçelievler Mh.,125.0,120.0,3+1,5.0,2,26-30 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,0,0,21700.0
+Güzeloba Mh.,45.0,40.0,1+1,1.0,1,1,Klima,1.0,0,0,Açık Otopark,1,0,0,200,30000,15000.0
+Güzeloba Mh.,80.0,70.0,2+1,6.0,Bahçe Katı,11-15 arası,Yok,1.0,1,1,Açık Otopark,0,1,0,900,22500,22500.0
+Fener Mah.,80.0,70.0,2+1,2.0,Giriş Katı,11-15 arası,Klima,1.0,1,1,Yok,1,0,0,0,42000,21000.0
+Soğuksu Mh.,130.0,120.0,3+1,4.0,2,21-25 arası,Yok,1.0,1,0,Açık Otopark,0,0,0,100,13500,12500.0
+Kızıltoprak Mh.,85.0,80.0,2+1,4.0,Yüksek Giriş,5-10 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,0,15000,15000.0
+Güzeloba Mh.,85.0,65.0,1+1,3.0,Bahçe Katı,11-15 arası,Kombi (Doğalgaz),1.0,1,0,Açık Otopark,1,1,0,1000,20000,15000.0
+Fener Mah.,110.0,105.0,2+1,4.0,2,5-10 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,0,0,2500,35000,33000.0
+Kızılarık Mh.,80.0,75.0,2+1,1.0,Yüksek Giriş,11-15 arası,Klima,1.0,1,1,Açık Otopark,0,0,1,50,25000,11000.0
+Yüksekalan Mh.,165.0,140.0,3+1,7.0,6,16-20 arası,Yok,1.0,1,1,Açık Otopark,0,0,0,0,16000,16000.0
+Güzeloba Mh.,105.0,90.0,2+1,2.0,Villa Tipi,21-25 arası,Klima,1.0,1,0,Açık Otopark,1,1,1,0,0,18000.0
+Güzeloba Mh.,140.0,125.0,3+1,7.0,1,16-20 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,300,20000,25000.0
+Kızıltoprak Mh.,80.0,70.0,2+1,4.0,2,16-20 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,0,15000.0
+Haşimişcan Mh.,100.0,85.0,2+1,4.0,1,21-25 arası,Klima,1.0,1,1,Açık Otopark,1,0,1,50,19000,32000.0
+Şirinyalı Mh.,160.0,145.0,3+1,2.0,2,26-30 arası,Klima,1.0,1,0,Yok,1,1,0,0,0,30000.0
+Çağlayan Mh.,120.0,110.0,2+1,10.0,9,5-10 arası,Yerden Isıtma,2.0,1,1,Açık & Kapalı Otopark,0,1,0,3000,55000,55000.0
+Gençlik Mh.,145.0,135.0,4+1,5.0,2,26-30 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,25000,25000.0
+Şirinyalı Mh.,55.0,50.0,1+1,2.0,2,16-20 arası,Klima,1.0,1,0,Açık Otopark,1,0,1,0,10000,25000.0
+Güzeloba Mh.,210.0,200.0,4+1,9.0,1,11-15 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,1,0,0,0,0,38000.0
+Şirinyalı Mh.,160.0,155.0,2+1,12.0,Bahçe Katı,16-20 arası,Klima,2.0,1,1,Açık & Kapalı Otopark,0,1,0,2000,45000,45000.0
+Soğuksu Mh.,150.0,130.0,3+1,3.0,1,26-30 arası,Klima,1.0,1,0,Yok,0,0,0,100,15000,15000.0
+Kızılarık Mh.,110.0,100.0,3+1,7.0,5,11-15 arası,Klima,1.0,1,1,Açık Otopark,0,1,0,0,60000,20000.0
+Sinan Mah.,100.0,90.0,2+1,5.0,3,5-10 arası,Klima,2.0,1,1,Açık Otopark,1,0,0,0,75000,25000.0
+Fener Mah.,100.0,75.0,2+1,4.0,1,21-25 arası,Klima,1.0,1,0,Yok,1,0,0,0,22000,22000.0
+Meydankavağı Mh.,180.0,170.0,3+1,10.0,7,16-20 arası,Klima,3.0,1,1,Açık Otopark,1,1,0,1000,30000,30000.0
+Yeşilbahçe Mh.,60.0,48.0,1+1,8.0,Giriş Katı,11-15 arası,Klima,1.0,0,1,Açık & Kapalı Otopark,0,0,0,200,13500,13500.0
+Çağlayan Mh.,160.0,150.0,3+1,10.0,4,11-15 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,1,0,0,0,32500.0
+Güzeloba Mh.,90.0,85.0,2+1,4.0,Yüksek Giriş,11-15 arası,Klima,2.0,1,1,Açık Otopark,1,1,0,1000,35000,30000.0
+Sedir Mah.,120.0,100.0,2+1,4.0,2,21-25 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,100,14000,12000.0
+Kızılarık Mh.,135.0,130.0,3+1,4.0,4,0,Klima,1.0,1,1,Kapalı Otopark,0,0,0,150,16000,16000.0
+Güzeloluk Mh.,115.0,110.0,2+1,7.0,2,11-15 arası,Klima,2.0,1,1,Açık Otopark,0,1,0,0,0,30000.0
+Etiler Mah.,140.0,135.0,1+1,3.0,Yüksek Giriş,16-20 arası,Yok,1.0,1,0,Açık Otopark,0,0,0,0,9500,15000.0
+Güzeloba Mh.,100.0,95.0,2+1,2.0,1,3,Klima,2.0,1,0,Açık Otopark,1,1,0,1000,25000,30000.0
+Demircikara Mah.,120.0,115.0,2+1,3.0,3,26-30 arası,Klima,1.0,1,0,Yok,0,0,0,50,35000,17500.0
+Güzeloba Mh.,120.0,100.0,2+1,2.0,2,0,Yerden Isıtma,2.0,1,0,Açık Otopark,1,0,0,20,15000,27500.0
+Gebizli Mah.,95.0,80.0,2+1,4.0,Yüksek Giriş,5-10 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,0,17000,17000.0
+Bayındır Mh.,75.0,65.0,1+1,5.0,3,5-10 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,0,0,13000.0
+Muratpaşa Mh.,95.0,90.0,2+1,4.0,2,11-15 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,200,16000,16000.0
+Kızıltoprak Mh.,90.0,78.0,2+1,4.0,4,11-15 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,0,16000,14500.0
+Yeşildere Mh.,135.0,125.0,3+1,4.0,2,11-15 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,13000,13000.0
+Şirinyalı Mh.,85.0,75.0,2+1,5.0,1,5-10 arası,Klima,2.0,1,1,Yok,0,0,0,1000,0,19000.0
+Bayındır Mh.,150.0,140.0,3+1,10.0,4,16-20 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,16000,17000.0
+Selçuk Mh.,45.0,40.0,1+1,5.0,5,11-15 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,100,15000,15000.0
+Yenigün Mh.,140.0,130.0,3+1,4.0,4,2,Kombi (Elektrik),1.0,1,1,Açık Otopark,1,0,0,0,0,26000.0
+Yüksekalan Mh.,50.0,40.0,1+1,4.0,2,5-10 arası,Klima,1.0,0,0,Yok,1,0,0,0,500,10750.0
+Yenigöl Mh.,100.0,90.0,2+0,4.0,Giriş Katı,0,Klima,1.0,1,0,Yok,1,0,0,50,500,10750.0
+Zerdalilik Mah.,190.0,175.0,3+1,4.0,2,31 ve üzeri,Klima,1.0,1,0,Açık Otopark,0,0,0,300,30000,24000.0
+Kızılarık Mh.,150.0,140.0,3+1,4.0,3,4,Klima,1.0,1,1,Açık & Kapalı Otopark,1,0,0,200,21000,21000.0
+Altındağ Mh.,95.0,90.0,1+1,5.0,Yüksek Giriş,3,Klima,1.0,1,1,Açık Otopark,0,0,0,0,0,14000.0
+Çağlayan Mh.,95.0,90.0,2+1,2.0,1,11-15 arası,Klima,2.0,1,0,Yok,0,0,0,0,28000,28000.0
+Yeşilbahçe Mh.,190.0,180.0,3+1,9.0,5,21-25 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,0,0,0,1100,30000,30000.0
+Konuksever Mah.,100.0,90.0,2+1,3.0,3,5-10 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,100,20000,20000.0
+Güzeloba Mh.,85.0,80.0,2+1,2.0,2,5-10 arası,Klima,2.0,1,0,Açık Otopark,1,1,0,1200,50000,25000.0
+Sinan Mah.,125.0,120.0,3+1,5.0,3,21-25 arası,Klima,1.0,1,0,Yok,0,0,0,0,14500,13000.0
+Kışla Mh.,65.0,60.0,1+1,4.0,2,5-10 arası,Klima,1.0,0,1,Yok,1,0,0,0,0,14800.0
+Güzeloba Mh.,45.0,40.0,1+1,1.0,Yüksek Giriş,1,Klima,1.0,1,0,Açık Otopark,1,0,0,200,30000,15000.0
+Güzeloba Mh.,60.0,50.0,1+1,3.0,Bahçe Katı,2,Klima,1.0,1,1,Kapalı Otopark,1,1,0,0,0,20000.0
+Soğuksu Mh.,60.0,50.0,1+1,6.0,3,4,Kombi (Doğalgaz),1.0,1,1,Yok,1,0,1,1,20000,18900.0
+Yüksekalan Mh.,70.0,65.0,1+1,7.0,3,21-25 arası,Klima,1.0,0,1,Yok,1,0,1,100,30000,14500.0
+Gençlik Mh.,250.0,220.0,4+1,6.0,3,11-15 arası,Yerden Isıtma,2.0,1,1,Kapalı Otopark,0,0,0,0,180000,90000.0
+Güzeloba Mh.,105.0,100.0,2+1,3.0,3,5-10 arası,Klima,1.0,1,1,Kapalı Otopark,1,1,0,500,27500,27500.0
+Varlık Mh.,130.0,120.0,3+1,7.0,1,26-30 arası,Klima,1.0,1,1,Yok,0,0,1,0,20500,20500.0
+Topçular Mh.,55.0,50.0,1+1,8.0,5,0,Klima,1.0,1,1,Açık Otopark,1,0,0,1250,17000,17000.0
+Güzeloba Mh.,110.0,100.0,2+1,3.0,3,21-25 arası,Klima,1.0,1,0,Yok,1,0,0,100,22000,22000.0
+Güzeloba Mh.,65.0,60.0,1+1,8.0,1,5-10 arası,Klima,1.0,0,1,Açık Otopark,0,1,0,1000,16000,16000.0
+Kızılarık Mh.,140.0,130.0,3+1,4.0,2,5-10 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,0,0,200,15000,18500.0
+Memurevleri Mah.,150.0,140.0,3+1,8.0,6,26-30 arası,Yok,1.0,1,1,Yok,0,0,0,0,0,15000.0
+Güzeloba Mh.,135.0,130.0,3+1,2.0,1,5-10 arası,Klima,1.0,1,0,Yok,0,0,0,150,20000,20000.0
+Meydankavağı Mh.,130.0,105.0,3+1,9.0,9,16-20 arası,Klima,1.0,1,1,Açık Otopark,1,1,0,600,65000,21500.0
+Demircikara Mah.,70.0,65.0,2+1,3.0,Bahçe Katı,26-30 arası,Yok,1.0,0,0,Yok,0,0,0,50,24000,12000.0
+Bahçelievler Mh.,240.0,230.0,4+1,5.0,5,1,Klima,3.0,1,1,Açık Otopark,1,1,1,0,80000,40000.0
+Gençlik Mh.,110.0,100.0,2+1,4.0,3,26-30 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,20000,20000.0
+Gebizli Mah.,90.0,85.0,2+1,4.0,4,5-10 arası,Klima,1.0,1,0,Yok,0,0,0,50,12000,12000.0
+Varlık Mh.,120.0,110.0,2+1,5.0,1,21-25 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,30000,15000.0
+Zerdalilik Mah.,83.0,75.0,2+1,3.0,1,0,Kombi (Doğalgaz),2.0,1,1,Kapalı Otopark,1,0,0,0,0,30000.0
+Çağlayan Mh.,165.0,150.0,3+1,6.0,4,5-10 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,1,1,0,0,110000,55000.0
+Gebizli Mah.,100.0,90.0,2+1,4.0,3,5-10 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,0,14000.0
+Kızılarık Mh.,110.0,100.0,2+1,4.0,Yüksek Giriş,2,Klima,1.0,1,1,Açık Otopark,0,0,0,100,20000,16000.0
+Cumhuriyet Mah.,140.0,130.0,3+1,5.0,4,21-25 arası,Yok,1.0,1,0,Açık Otopark,0,0,0,0,12000,12000.0
+Şirinyalı Mh.,165.0,145.0,3+1,4.0,2,21-25 arası,Kombi (Doğalgaz),2.0,1,0,Açık Otopark,1,0,0,200,26500,26500.0
+Yeşilbahçe Mh.,85.0,75.0,2+1,8.0,Giriş Katı,16-20 arası,Klima,1.0,1,1,Açık Otopark,1,1,0,0,0,20000.0
+Meydankavağı Mh.,70.0,65.0,2+1,4.0,Giriş Katı,5-10 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,0,14500.0
+Çağlayan Mh.,100.0,90.0,2+1,3.0,2,0,Kombi (Doğalgaz),1.0,1,0,Açık Otopark,1,0,0,0,0,55000.0
+Yenigün Mh.,145.0,125.0,3+1,3.0,3,21-25 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,100,15000,14500.0
+Güzeloba Mh.,90.0,80.0,2+1,2.0,1,5-10 arası,Klima,1.0,1,0,Açık Otopark,0,1,0,650,21000,21000.0
+Altındağ Mh.,35.0,30.0,1+1,4.0,Giriş Katı,26-30 arası,Klima,1.0,0,0,Yok,0,0,0,0,22000,11000.0
+Güzeloba Mh.,220.0,195.0,4+1,7.0,7,21-25 arası,Merkezi,3.0,1,1,Açık Otopark,1,1,0,0,0,72000.0
+Meltem Mah.,140.0,130.0,3+1,8.0,2,21-25 arası,Klima,1.0,1,1,Açık Otopark,0,1,0,500,44000,22000.0
+Çağlayan Mh.,395.0,370.0,5+2,4.0,4,11-15 arası,Kombi (Doğalgaz),4.0,1,1,Açık Otopark,1,0,1,75,100000,40000.0
+Meydankavağı Mh.,180.0,160.0,3+1,4.0,2,11-15 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,50,30000,30000.0
+Varlık Mh.,45.0,40.0,1+1,4.0,Zemin Kat,11-15 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,30,12000,12000.0
+Meydankavağı Mh.,140.0,130.0,3+1,4.0,2,11-15 arası,Klima,2.0,1,0,Açık Otopark,1,0,0,0,0,19500.0
+Yenigün Mh.,110.0,100.0,2+1,4.0,1,2,Klima,2.0,1,1,Kapalı Otopark,1,1,0,500,40000,25000.0
+Güzeloba Mh.,115.0,100.0,2+1,3.0,3,5-10 arası,Kombi (Doğalgaz),2.0,1,1,Kapalı Otopark,1,1,0,0,0,55000.0
+Kırcami Mh.,260.0,250.0,3+1,10.0,5,11-15 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,0,25000,25000.0
+Meltem Mah.,80.0,70.0,2+1,15.0,10,16-20 arası,Klima,1.0,1,1,Açık Otopark,0,1,0,0,0,15000.0
+Deniz Mah.,180.0,170.0,3+1,5.0,3,5-10 arası,Kombi (Doğalgaz),3.0,1,1,Açık Otopark,1,0,0,500,80000,50000.0
+Bayındır Mh.,160.0,150.0,3+1,7.0,3,16-20 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,200,25000,25000.0
+Güzeloba Mh.,100.0,75.0,2+1,3.0,2,5-10 arası,Klima,1.0,1,1,Kapalı Otopark,1,1,0,1100,80000,25000.0
+Şirinyalı Mh.,175.0,150.0,3+1,5.0,3,16-20 arası,Yok,2.0,1,1,Açık Otopark,0,1,0,1000,100000,55000.0
+Çağlayan Mh.,90.0,85.0,2+1,13.0,9,16-20 arası,Klima,1.0,1,1,Açık Otopark,1,1,0,1600,25000,20000.0
+Çağlayan Mh.,196.0,190.0,3+1,6.0,2,11-15 arası,Kombi (Doğalgaz),2.0,1,1,Kapalı Otopark,0,0,0,0,60000,60000.0
+Güzeloba Mh.,55.0,40.0,1+1,2.0,Yüksek Giriş,0,Kombi (Doğalgaz),1.0,1,1,Yok,1,0,0,0,20000,20000.0
+Altındağ Mh.,120.0,115.0,3+1,4.0,1,26-30 arası,Klima,1.0,1,1,Açık Otopark,1,0,1,0,25000,15000.0
+Kızılarık Mh.,70.0,60.0,2+1,4.0,Yüksek Giriş,16-20 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,50,15000,15000.0
+Şirinyalı Mh.,250.0,220.0,3+1,2.0,Çatı Katı,16-20 arası,Klima,2.0,1,0,Yok,0,0,0,0,60000,30000.0
+Kızıltoprak Mh.,155.0,145.0,3+1,5.0,1,5-10 arası,Klima,2.0,1,1,Açık Otopark,1,0,0,0,23000,27000.0
+Çağlayan Mh.,65.0,60.0,1+1,2.0,2,21-25 arası,Klima,1.0,0,0,Yok,0,0,0,75,25000,25000.0
+Gebizli Mah.,75.0,70.0,2+1,4.0,Yüksek Giriş,5-10 arası,Klima,1.0,0,1,Açık Otopark,1,0,0,0,14000,14000.0
+Güzeloba Mh.,150.0,130.0,4+1,3.0,1,3,Kombi (Doğalgaz),2.0,1,0,Yok,0,0,0,0,25000,25000.0
+Konuksever Mah.,75.0,65.0,2+0,3.0,Yüksek Giriş,5-10 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,0,11000,11000.0
+Sedir Mah.,95.0,85.0,2+1,5.0,Yüksek Giriş,5-10 arası,Klima,1.0,0,1,Açık Otopark,0,0,0,0,11000,12000.0
+Çağlayan Mh.,80.0,60.0,1+1,2.0,1,5-10 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,0,0,30000.0
+Güzeloba Mh.,165.0,145.0,3+1,4.0,1,16-20 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,0,1,100,0,46000.0
+Güzeloba Mh.,100.0,90.0,2+1,9.0,3,16-20 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,0,19000,19000.0
+Altındağ Mh.,105.0,90.0,2+1,5.0,2,31 ve üzeri,Klima,1.0,1,0,Yok,0,0,0,0,0,12750.0
+Yüksekalan Mh.,100.0,90.0,2+1,3.0,3,0,Klima,1.0,1,1,Açık & Kapalı Otopark,0,1,0,0,0,20000.0
+Çağlayan Mh.,170.0,160.0,3+1,4.0,1,21-25 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,150,22000,20000.0
+Bayındır Mh.,145.0,130.0,3+1,4.0,3,21-25 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,100,18000,18000.0
+Güzeloba Mh.,115.0,105.0,2+1,2.0,1,5-10 arası,Klima,2.0,1,1,Kapalı Otopark,0,1,0,1500,33000,33000.0
+Üçgen Mh.,120.0,100.0,3+1,5.0,Giriş Katı,26-30 arası,Klima,1.0,1,0,Yok,1,0,0,100,16000,16000.0
+Yeşilbahçe Mh.,195.0,185.0,3.5+1,10.0,5,16-20 arası,Kombi (Doğalgaz),2.0,1,1,Açık & Kapalı Otopark,1,1,0,1100,85000,42000.0
+Güzeloba Mh.,175.0,160.0,3+1,12.0,6,21-25 arası,Kombi (Doğalgaz),1.0,1,1,Açık & Kapalı Otopark,0,1,0,0,50000,29000.0
+Çağlayan Mh.,175.0,160.0,3+1,4.0,2,16-20 arası,Klima,1.0,1,1,Açık Otopark,0,1,0,0,0,25000.0
+Güzeloba Mh.,85.0,80.0,1+1,9.0,3,11-15 arası,Kat Kaloriferi,1.0,1,1,Açık Otopark,1,1,0,0,32000,32000.0
+Yeşilbahçe Mh.,240.0,220.0,4+1,4.0,4,16-20 arası,Klima,3.0,1,1,Açık Otopark,0,0,0,0,25000,25000.0
+Konuksever Mah.,80.0,70.0,2+1,5.0,2,0,Klima,1.0,1,1,Açık Otopark,0,0,0,200,15000,15000.0
+Bahçelievler Mh.,50.0,45.0,1+1,4.0,Giriş Katı,21-25 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,0,35000,17500.0
+Çağlayan Mh.,200.0,180.0,3+1,4.0,4,26-30 arası,Klima,1.0,1,0,Yok,1,0,0,0,0,35000.0
+Yeşilbahçe Mh.,175.0,165.0,3+1,9.0,9,26-30 arası,Merkezi,1.0,1,1,Açık Otopark,0,0,0,1250,50000,45000.0
+Çağlayan Mh.,350.0,280.0,4+1,2.0,2,5-10 arası,Klima,2.0,1,0,Açık Otopark,1,0,0,0,0,55000.0
+Güzeloba Mh.,80.0,70.0,2+1,6.0,Giriş Katı,21-25 arası,Klima,1.0,1,1,Açık Otopark,1,1,0,550,50000,14500.0
+Güzeloba Mh.,115.0,100.0,2+1,6.0,2,1,Yerden Isıtma,2.0,1,1,Açık & Kapalı Otopark,1,1,1,3000,200000,60000.0
+Güzeloba Mh.,160.0,150.0,3+1,10.0,5,11-15 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,0,0,0,250,25000,25000.0
+Yüksekalan Mh.,100.0,95.0,2+1,4.0,Yüksek Giriş,11-15 arası,Yok,1.0,1,1,Açık Otopark,0,0,0,0,12000,12000.0
+Fener Mah.,180.0,155.0,3+1,12.0,12,21-25 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,500,30000,28000.0
+Güzeloba Mh.,120.0,100.0,2+1,1.0,1,26-30 arası,Soba,1.0,1,0,Açık Otopark,0,0,0,0,11000,12000.0
+Fener Mah.,125.0,100.0,2+1,8.0,8,11-15 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,400,0,20000.0
+Cumhuriyet Mah.,170.0,155.0,3+1,4.0,1,26-30 arası,Yok,1.0,1,1,Açık Otopark,0,0,0,0,17500,17000.0
+Güzeloba Mh.,100.0,90.0,2+1,9.0,3,16-20 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,17000,17000.0
+Çağlayan Mh.,165.0,140.0,2+1,10.0,6,16-20 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,1,1,0,1500,120000,60000.0
+Güzeloba Mh.,130.0,120.0,3+1,2.0,2,4,Klima,2.0,1,0,Açık Otopark,1,1,0,750,29000,29000.0
+Şirinyalı Mh.,180.0,165.0,3+1,8.0,3,21-25 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,150,30000,27500.0
+Sinan Mah.,130.0,120.0,2+1,6.0,5,26-30 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,0,0,26000.0
+Çağlayan Mh.,115.0,105.0,2+1,5.0,2,4,Klima,2.0,1,1,Açık & Kapalı Otopark,1,1,0,1000,0,40000.0
+Fener Mah.,150.0,135.0,3+1,2.0,2,5-10 arası,Klima,2.0,1,0,Yok,0,0,0,0,0,27500.0
+Yüksekalan Mh.,150.0,145.0,4+1,4.0,3,11-15 arası,Klima,2.0,1,0,Yok,1,0,0,150,25000,25000.0
+Fener Mah.,75.0,70.0,2+1,2.0,Bahçe Katı,11-15 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,200,0,25000.0
+Şirinyalı Mh.,220.0,200.0,3+1,15.0,10,11-15 arası,Merkezi,2.0,1,1,Kapalı Otopark,1,1,0,0,0,85000.0
+Meydankavağı Mh.,140.0,125.0,3+1,10.0,1,21-25 arası,Yok,1.0,1,1,Açık Otopark,0,0,0,0,0,16000.0
+Yeşilbahçe Mh.,175.0,160.0,3+1,5.0,3,16-20 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,300,105000,35000.0
+Kızılarık Mh.,90.0,80.0,2+1,7.0,4,3,Klima,1.0,1,1,Açık & Kapalı Otopark,0,1,0,500,14000,14000.0
+Yıldız Mh.,135.0,125.0,3+1,4.0,1,16-20 arası,Klima,1.0,1,0,Yok,0,0,0,20,16000,15000.0
+Güzeloba Mh.,110.0,100.0,2+1,3.0,2,11-15 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,0,50000,25000.0
+Güzeloba Mh.,50.0,47.0,1+1,2.0,Yüksek Giriş,5-10 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,100,30000,18000.0
+Çağlayan Mh.,105.0,100.0,2+1,14.0,6,5-10 arası,Kombi (Doğalgaz),1.0,1,1,Açık & Kapalı Otopark,0,0,0,0,1600,20000.0
+Sinan Mah.,80.0,75.0,2+1,5.0,4,0,Klima,1.0,1,0,Açık Otopark,0,0,0,100,19000,20000.0
+Yeşilova Mh.,65.0,55.0,1+1,10.0,8,4,Klima,1.0,1,1,Kapalı Otopark,1,1,0,2100,30000,19000.0
+Güzeloba Mh.,75.0,70.0,2+1,4.0,Yüksek Giriş,11-15 arası,Kombi (Doğalgaz),1.0,1,0,Açık Otopark,0,0,0,0,0,13000.0
+Çağlayan Mh.,75.0,70.0,1+1,4.0,Yüksek Giriş,4,Klima,1.0,1,1,Açık Otopark,1,0,0,0,20000,20000.0
+Kışla Mh.,60.0,50.0,1+1,4.0,1,2,Klima,1.0,0,1,Açık Otopark,1,0,0,0,26000,13000.0
+Şirinyalı Mh.,185.0,170.0,3+1,15.0,15,11-15 arası,Kombi (Doğalgaz),2.0,1,1,Açık & Kapalı Otopark,0,1,0,7000,100000,70000.0
+Bayındır Mh.,50.0,40.0,1+1,5.0,5,5-10 arası,Yok,1.0,1,1,Açık Otopark,0,0,0,250,15000,14000.0
+Yeşildere Mh.,120.0,110.0,2+1,4.0,Yüksek Giriş,4,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,0,1,0,150,0,14500.0
+Sinan Mah.,95.0,85.0,2+1,4.0,1,2,Klima,1.0,1,1,Kapalı Otopark,0,1,0,500,20000,20000.0
+Şirinyalı Mh.,220.0,200.0,3+1,2.0,Çatı Katı,11-15 arası,Klima,2.0,1,0,Kapalı Otopark,0,1,0,0,70000,40000.0
+Çağlayan Mh.,220.0,200.0,3+1,8.0,5,16-20 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,1,0,0,0,30000,30000.0
+Kızıltoprak Mh.,85.0,75.0,2+1,3.0,2,0,Klima,1.0,1,1,Açık Otopark,0,0,0,0,0,19000.0
+Kızıltoprak Mh.,150.0,140.0,3+1,4.0,2,5-10 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,0,19500.0
+Varlık Mh.,45.0,40.0,1+1,5.0,Yüksek Giriş,26-30 arası,Klima,1.0,0,0,Açık Otopark,1,0,0,50,10000,10250.0
+Güzeloba Mh.,165.0,155.0,3+1,11.0,9,16-20 arası,Klima,2.0,1,1,Açık Otopark,1,1,0,75,20000,20000.0
+Fener Mah.,75.0,65.0,1+1,2.0,Bahçe Katı,11-15 arası,Klima,1.0,1,0,Yok,1,0,0,0,18000,17000.0
+Muratpaşa Mh.,90.0,75.0,2+1,3.0,3,31 ve üzeri,Klima,1.0,1,0,Yok,1,0,0,0,28000,14000.0
+Ermenek Mah.,80.0,70.0,1+1,1.0,1,16-20 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,0,19500,19250.0
+Varlık Mh.,160.0,150.0,3+1,7.0,6,26-30 arası,Klima,2.0,1,1,Yok,0,0,0,0,20000,20000.0
+Güzeloba Mh.,70.0,65.0,1+1,6.0,Yüksek Giriş,11-15 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,1,0,1000,19000,19000.0
+Muratpaşa Mh.,140.0,130.0,3+1,4.0,4,21-25 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,0,13000,13000.0
+Doğuyaka Mh.,60.0,50.0,1+1,5.0,Çatı Katı,5-10 arası,Klima,1.0,1,1,Açık Otopark,1,0,1,250,11500,11500.0
+Zerdalilik Mah.,180.0,160.0,5+2,4.0,4,31 ve üzeri,Klima,2.0,1,0,Yok,0,0,0,0,20000,20000.0
+Şirinyalı Mh.,170.0,160.0,3+1,12.0,10,11-15 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,1,0,0,0,50000,50000.0
+Etiler Mah.,110.0,100.0,2+1,6.0,6,21-25 arası,Klima,1.0,1,1,Yok,0,0,0,100,16000,16000.0
+Kızılsaray Mh.,210.0,200.0,3+1,5.0,5,31 ve üzeri,Klima,1.0,1,1,Yok,1,0,0,0,2100,27000.0
+Güzeloba Mh.,85.0,70.0,2+1,12.0,9,16-20 arası,Klima,1.0,1,1,Kapalı Otopark,1,1,1,900,35000,35000.0
+Memurevleri Mah.,130.0,110.0,3+1,4.0,3,26-30 arası,Yok,1.0,1,0,Yok,0,0,0,0,13500,13500.0
+Muratpaşa Mh.,140.0,130.0,3+1,4.0,3,21-25 arası,Yok,1.0,1,0,Açık Otopark,0,0,0,0,13000,13000.0
+Kızılarık Mh.,140.0,135.0,3+1,4.0,3,11-15 arası,Kombi (Doğalgaz),2.0,1,0,Açık Otopark,1,0,0,0,18000,18000.0
+Çağlayan Mh.,180.0,170.0,3+1,7.0,1,21-25 arası,Klima,2.0,1,1,Açık Otopark,0,1,0,0,25000,22750.0
+Varlık Mh.,150.0,140.0,3+1,7.0,1,26-30 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,25000,22000.0
+Yeşilbahçe Mh.,220.0,200.0,3+1,15.0,15,11-15 arası,Kombi (Doğalgaz),2.0,1,1,Kapalı Otopark,1,1,0,4000,175000,87500.0
+Çağlayan Mh.,180.0,150.0,3+1,2.0,2,11-15 arası,Klima,2.0,1,0,Yok,1,0,0,250,66000,33000.0
+Bayındır Mh.,70.0,60.0,1+1,5.0,5,5-10 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,0,0,13500.0
+Kışla Mh.,65.0,60.0,1+1,3.0,2,5-10 arası,Klima,1.0,0,1,Yok,1,0,0,0,0,15800.0
+Bayındır Mh.,115.0,105.0,3+1,4.0,2,16-20 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,0,0,18000.0
+Güzeloba Mh.,75.0,70.0,1+1,3.0,Yüksek Giriş,5-10 arası,Klima,1.0,1,0,Yok,1,0,0,0,36000,18000.0
+Yeşilbahçe Mh.,180.0,170.0,3+1,10.0,10,31 ve üzeri,Merkezi,2.0,1,1,Açık Otopark,0,0,0,1500,36000,36000.0
+Güzeloba Mh.,155.0,150.0,2+1,2.0,2,5-10 arası,Klima,2.0,1,0,Yok,1,0,0,200,33000,33000.0
+Güzeloba Mh.,65.0,60.0,1+1,2.0,Giriş Katı,5-10 arası,Klima,1.0,1,0,Açık Otopark,1,1,0,250,18000,18000.0
+Sinan Mah.,110.0,100.0,2+1,4.0,Giriş Katı,26-30 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,0,0,15000.0
+Soğuksu Mh.,55.0,45.0,1+1,6.0,2,4,Klima,1.0,1,1,Açık Otopark,1,0,0,0,0,19000.0
+Güzeloba Mh.,140.0,100.0,3+1,9.0,4,16-20 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,0,1,0,200,20000,20000.0
+Yenigün Mh.,70.0,60.0,1+1,4.0,Giriş Katı,5-10 arası,Klima,1.0,1,0,Açık Otopark,0,0,1,0,0,12800.0
+Güzeloba Mh.,100.0,98.0,2+1,4.0,2,16-20 arası,Kombi (Doğalgaz),1.0,1,0,Yok,0,1,0,0,0,17500.0
+Yüksekalan Mh.,115.0,100.0,2+1,3.0,1,5-10 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,150,15000,15000.0
+Muratpaşa Mh.,85.0,75.0,2+1,4.0,3,5-10 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,0,12000.0
+Tahılpazarı Mh.,70.0,55.0,1+1,5.0,2,16-20 arası,Klima,1.0,0,1,Yok,1,0,1,350,34000,17000.0
+Bahçelievler Mh.,150.0,130.0,3+1,7.0,6,21-25 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,0,0,0,30000,30000.0
+Çağlayan Mh.,180.0,170.0,3+1,7.0,1,21-25 arası,Klima,2.0,1,1,Açık Otopark,0,1,0,0,25000,23500.0
+Kızılsaray Mh.,220.0,200.0,3+1,6.0,6,21-25 arası,Klima,1.0,1,1,Yok,1,0,0,100,25000,25000.0
+Güzeloba Mh.,65.0,60.0,1+1,2.0,1,11-15 arası,Klima,1.0,0,0,Açık Otopark,1,1,0,0,18000,18000.0
+Konuksever Mah.,110.0,90.0,2+1,5.0,5,5-10 arası,Yok,1.0,1,0,Yok,1,0,1,200,0,14000.0
+Memurevleri Mah.,200.0,170.0,3+1,4.0,4,26-30 arası,Yok,1.0,1,0,Yok,0,0,1,200,13000,13000.0
+Güzeloba Mh.,85.0,75.0,2+1,3.0,Bahçe Katı,11-15 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,120,36000,17000.0
+Bahçelievler Mh.,115.0,105.0,2+1,7.0,3,11-15 arası,Klima,1.0,1,1,Yok,1,0,0,400,20000,20000.0
+Muratpaşa Mh.,90.0,70.0,2+1,4.0,1,16-20 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,80,12000,12000.0
+Güzeloba Mh.,55.0,50.0,1+1,2.0,Yüksek Giriş,0,Klima,1.0,1,1,Açık Otopark,1,0,0,0,20000,20000.0
+Yeşildere Mh.,110.0,100.0,3+1,4.0,3,5-10 arası,Klima,1.0,1,0,Açık Otopark,0,1,0,500,12000,12000.0
+Gebizli Mah.,85.0,75.0,2+1,4.0,1,5-10 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,12000,12000.0
+Güzeloba Mh.,65.0,55.0,2+1,3.0,Çatı Katı,2,Klima,2.0,1,0,Açık & Kapalı Otopark,1,1,0,0,0,38500.0
+Güvenlik Mh.,60.0,50.0,1+1,4.0,4,21-25 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,100,11000,11000.0
+Yıldız Mh.,110.0,100.0,2+1,3.0,2,16-20 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,0,14000,14000.0
+Fener Mah.,190.0,180.0,3+1,13.0,1,11-15 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,1,0,0,0,0,26000.0
+Güzeloba Mh.,110.0,95.0,2+1,2.0,1,11-15 arası,Klima,1.0,1,0,Yok,1,1,0,350,16000,16000.0
+Kızılarık Mh.,110.0,100.0,2+1,4.0,2,3,Yok,1.0,1,1,Açık Otopark,0,0,0,0,15000,15000.0
+Sedir Mah.,90.0,80.0,2+1,5.0,4,5-10 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,15000,15000.0
+Çağlayan Mh.,62.0,52.0,1+1,3.0,2,5-10 arası,Klima,1.0,0,0,Açık Otopark,1,0,0,0,0,28000.0
+Yıldız Mh.,150.0,135.0,3+1,5.0,4,21-25 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,0,13500,13000.0
+Konuksever Mah.,135.0,125.0,3+1,4.0,2,31 ve üzeri,Klima,1.0,1,0,Açık Otopark,0,0,0,0,0,11000.0
+Çaybaşı Mh.,60.0,55.0,1+1,5.0,Bahçe Katı,5-10 arası,Klima,1.0,1,1,Yok,1,0,0,0,28000,15500.0
+Bayındır Mh.,150.0,145.0,3+1,5.0,3,16-20 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,0,25000,25000.0
+Şirinyalı Mh.,160.0,150.0,3+1,5.0,2,11-15 arası,Kat Kaloriferi,2.0,1,1,Açık Otopark,1,0,0,0,0,35000.0
+Konuksever Mah.,140.0,130.0,3+1,3.0,2,16-20 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,0,0,14000.0
+Meltem Mah.,145.0,140.0,3+1,8.0,4,11-15 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,0,0,0,0,27000.0
+Güzeloba Mh.,50.0,45.0,1+1,2.0,Bahçe Katı,4,Klima,1.0,1,0,Yok,1,1,0,2000,15000,15000.0
+Kızılarık Mh.,90.0,80.0,2+1,4.0,Yüksek Giriş,5-10 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,0,1,0,0,0,11500.0
+Fener Mah.,60.0,60.0,1+1,4.0,Bahçe Katı,11-15 arası,Klima,1.0,1,0,Yok,1,0,0,0,15000,15000.0
+Çağlayan Mh.,180.0,160.0,3+1,10.0,4,16-20 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,0,1,0,1000,30000,30000.0
+Güzeloba Mh.,85.0,80.0,2+1,12.0,7,16-20 arası,Klima,1.0,1,1,Açık Otopark,1,1,0,500,19000,19000.0
+Yeşildere Mh.,140.0,130.0,2+1,5.0,Yüksek Giriş,5-10 arası,Merkezi,2.0,1,1,Açık Otopark,1,0,0,0,20000,15000.0
+Güzeloluk Mh.,95.0,90.0,1+1,4.0,Bahçe Katı,4,Kombi (Doğalgaz),1.0,1,1,Açık & Kapalı Otopark,1,1,0,1500,100000,35000.0
+Güzeloba Mh.,70.0,60.0,1+1,6.0,Bahçe Katı,11-15 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,1,0,1000,19000,19000.0
+Deniz Mah.,105.0,85.0,2+1,4.0,2,5-10 arası,Klima,1.0,1,1,Kapalı Otopark,0,1,0,700,23000,23000.0
+Memurevleri Mah.,95.0,90.0,2+1,5.0,Bahçe Katı,11-15 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,0,12000,13000.0
+Kızılarık Mh.,90.0,85.0,2+1,4.0,Yüksek Giriş,11-15 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,100,11500,11000.0
+Altındağ Mh.,135.0,125.0,3+1,4.0,4,16-20 arası,Kombi (Doğalgaz),1.0,1,0,Kapalı Otopark,1,0,1,30,0,20000.0
+Güzeloba Mh.,85.0,40.0,Stüdyo (1+0),3.0,2,5-10 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,0,0,12000.0
+Güzeloba Mh.,50.0,45.0,1+1,2.0,Yüksek Giriş,5-10 arası,Klima,1.0,1,0,Yok,1,1,0,50,40000,17500.0
+Gençlik Mh.,150.0,135.0,3+1,4.0,3,31 ve üzeri,Klima,1.0,1,0,Yok,0,0,0,0,0,25000.0
+Güzeloba Mh.,45.0,40.0,1+1,3.0,1,2,Klima,1.0,1,1,Kapalı Otopark,1,1,0,0,0,20000.0
+Muratpaşa Mh.,140.0,120.0,2+1,4.0,1,11-15 arası,Klima,2.0,1,0,Açık Otopark,0,0,0,60,25000,20000.0
+Kızılarık Mh.,80.0,70.0,2+1,3.0,Yüksek Giriş,11-15 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,12000,12000.0
+Gebizli Mah.,100.0,95.0,3+1,4.0,Yüksek Giriş,5-10 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,0,0,0,0,15900,13000.0
+Çağlayan Mh.,130.0,120.0,3+1,5.0,1,5-10 arası,Klima,2.0,1,1,Açık Otopark,1,0,0,300,80000,40000.0
+Üçgen Mh.,140.0,130.0,3+1,5.0,3,21-25 arası,Güneş Enerjisi,1.0,1,0,Açık Otopark,0,0,1,50,15000,15000.0
+Fener Mah.,90.0,85.0,2+1,6.0,Giriş Katı,5-10 arası,Klima,1.0,1,1,Açık Otopark,0,0,1,150,40000,20000.0
+Yeşilbahçe Mh.,225.0,190.0,3+1,15.0,15,11-15 arası,Kombi (Doğalgaz),2.0,1,1,Kapalı Otopark,1,1,0,4000,0,87500.0
+Deniz Mah.,70.0,60.0,1+1,4.0,4,31 ve üzeri,Klima,1.0,0,0,Yok,1,0,0,0,30000,15000.0
+Güzeloba Mh.,55.0,45.0,1+1,2.0,1,5-10 arası,Klima,1.0,1,0,Açık Otopark,1,1,0,1750,0,22000.0
+Etiler Mah.,100.0,90.0,2+1,3.0,3,11-15 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,0,20000,20000.0
+Çağlayan Mh.,160.0,145.0,3+1,5.0,3,16-20 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,0,0,0,45000,35500.0
+Yüksekalan Mh.,45.0,40.0,1+1,4.0,Yüksek Giriş,0,Kombi (Doğalgaz),1.0,0,1,Açık & Kapalı Otopark,0,1,0,0,15000,15000.0
+Yenigün Mh.,140.0,130.0,3+1,8.0,2,16-20 arası,Klima,1.0,1,1,Açık Otopark,0,1,0,250,36000,17500.0
+Güzelbağ Mh.,110.0,100.0,2+1,2.0,2,5-10 arası,Klima,2.0,0,1,Yok,1,0,0,400,55000,30000.0
+Güzeloba Mh.,120.0,110.0,2+1,2.0,1,5-10 arası,Klima,2.0,0,1,Kapalı Otopark,1,1,0,1800,60000,45000.0
+Meltem Mah.,155.0,145.0,3+1,15.0,8,21-25 arası,Klima,2.0,1,1,Açık Otopark,1,1,0,500,22500,22500.0
+Şirinyalı Mh.,165.0,160.0,3+1,10.0,7,11-15 arası,Yok,2.0,1,1,Açık Otopark,0,1,0,2000,25000,25000.0
+Gebizli Mah.,110.0,100.0,2+1,5.0,2,4,Merkezi (Pay Ölçer),2.0,1,1,Kapalı Otopark,1,1,0,0,0,26000.0
+Şirinyalı Mh.,175.0,165.0,3+1,5.0,3,26-30 arası,Yok,2.0,1,1,Açık Otopark,0,0,0,0,0,20000.0
+Gebizli Mah.,115.0,100.0,2+1,4.0,4,5-10 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,0,15000,15000.0
+Yenigün Mh.,80.0,70.0,2+1,3.0,Yüksek Giriş,5-10 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,0,15000,15000.0
+Çağlayan Mh.,160.0,135.0,3+1,10.0,4,11-15 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,1,0,400,70000,30000.0
+Bayındır Mh.,185.0,165.0,4+1,8.0,8,11-15 arası,Kombi (Doğalgaz),1.0,1,1,Açık & Kapalı Otopark,1,0,0,0,0,18000.0
+Güzeloba Mh.,150.0,140.0,3+1,11.0,8,11-15 arası,Klima,1.0,1,1,Yok,0,0,0,150,20000,20000.0
+Güzeloba Mh.,120.0,100.0,2+1,3.0,2,5-10 arası,Klima,2.0,1,1,Kapalı Otopark,1,1,0,1200,80000,40000.0
+Kışla Mh.,55.0,50.0,1+1,4.0,4,5-10 arası,Klima,1.0,1,1,Yok,1,0,0,0,0,15800.0
+Meydankavağı Mh.,150.0,140.0,3+1,4.0,1,16-20 arası,Yok,2.0,1,1,Açık Otopark,0,0,0,150,20000,19000.0
+Üçgen Mh.,180.0,160.0,4+1,4.0,4,4,Klima,2.0,1,1,Açık Otopark,0,0,0,0,0,25000.0
+Kızılarık Mh.,110.0,100.0,2+1,4.0,2,5-10 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,0,1,0,0,0,14000.0
+Çağlayan Mh.,85.0,75.0,2+1,7.0,Giriş Katı,4,Kombi (Doğalgaz),1.0,1,1,Kapalı Otopark,1,0,0,1800,45000,30000.0
+Sinan Mah.,125.0,110.0,3+1,4.0,1,31 ve üzeri,Klima,1.0,1,0,Açık Otopark,0,0,0,0,15000,15000.0
+Bahçelievler Mh.,150.0,130.0,2+1,5.0,5,31 ve üzeri,Merkezi,1.0,1,1,Açık Otopark,0,0,0,1000,30000,25000.0
+Kışla Mh.,95.0,85.0,2+1,3.0,1,11-15 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,0,15500,15500.0
+Çağlayan Mh.,70.0,65.0,1+1,3.0,1,3,Klima,1.0,1,1,Yok,1,0,0,0,20000,20000.0
+Güzeloba Mh.,50.0,45.0,1+1,2.0,Bahçe Katı,5-10 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,0,29000,15000.0
+Konuksever Mah.,120.0,105.0,2+1,3.0,1,5-10 arası,Klima,2.0,1,0,Açık Otopark,0,0,0,0,15000,15000.0
+Kışla Mh.,130.0,115.0,3+1,5.0,5,26-30 arası,Klima,2.0,1,0,Açık Otopark,0,0,0,50,14000,13500.0
+Güzeloba Mh.,85.0,75.0,2+1,4.0,Yüksek Giriş,5-10 arası,Klima,1.0,1,1,Açık Otopark,1,1,0,400,22000,22000.0
+Çağlayan Mh.,100.0,90.0,2+1,2.0,1,11-15 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,250,23000,23000.0
+Muratpaşa Mh.,55.0,52.0,1+1,4.0,2,0,Yerden Isıtma,1.0,1,1,Açık Otopark,1,0,1,300,20000,25000.0
+Güzeloba Mh.,135.0,125.0,3+1,3.0,3,11-15 arası,Kombi (Doğalgaz),2.0,1,0,Açık Otopark,1,0,0,0,30000,30000.0
+Meydankavağı Mh.,180.0,170.0,3+1,3.0,2,11-15 arası,Kombi (Doğalgaz),2.0,1,1,Kapalı Otopark,0,1,1,1250,80000,40000.0
+Çağlayan Mh.,70.0,65.0,1+1,4.0,2,5-10 arası,Klima,1.0,1,1,Yok,1,0,0,0,16000,14350.0
+Çaybaşı Mh.,140.0,125.0,2+1,7.0,1,16-20 arası,Klima,1.0,0,1,Yok,1,0,1,200,20000,25000.0
+Güzeloba Mh.,130.0,120.0,3+1,3.0,2,5-10 arası,Klima,2.0,1,0,Açık Otopark,0,0,0,1000,25000,25000.0
+Kızılarık Mh.,120.0,95.0,2+1,6.0,2,5-10 arası,Klima,1.0,1,1,Açık Otopark,0,1,0,200,15000,14999.0
+Zerdalilik Mah.,95.0,85.0,2+1,4.0,Yüksek Giriş,2,Kombi (Doğalgaz),1.0,1,1,Kapalı Otopark,1,1,0,350,35000,29995.0
+Yeşilbahçe Mh.,125.0,115.0,2+1,5.0,3,11-15 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,0,0,0,150,27000,27000.0
+Şirinyalı Mh.,170.0,160.0,3+1,10.0,6,21-25 arası,Yok,1.0,1,1,Açık Otopark,0,1,0,0,0,25000.0
+Çağlayan Mh.,120.0,110.0,2+1,15.0,15,16-20 arası,Klima,1.0,1,1,Açık Otopark,0,1,0,1600,60000,30000.0
+Şirinyalı Mh.,90.0,80.0,2+1,3.0,3,21-25 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,0,0,40000.0
+Bayındır Mh.,145.0,130.0,3+1,4.0,1,26-30 arası,Yok,1.0,1,0,Açık Otopark,0,0,0,75,0,15000.0
+Yeşilbahçe Mh.,150.0,140.0,3+1,4.0,1,31 ve üzeri,Klima,1.0,1,0,Açık Otopark,0,0,0,0,0,25000.0
+Kızıltoprak Mh.,160.0,150.0,3+1,5.0,2,11-15 arası,Yok,1.0,1,1,Açık Otopark,0,1,0,0,20000,20000.0
+Güzeloba Mh.,105.0,97.0,1+1,2.0,2,5-10 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,0,40000,20000.0
+Üçgen Mh.,140.0,135.0,3+1,6.0,6,26-30 arası,Klima,1.0,1,0,Yok,0,0,0,100,15000,15000.0
+Şirinyalı Mh.,150.0,140.0,3+1,5.0,2,11-15 arası,Yok,2.0,1,1,Açık Otopark,0,1,0,575,23000,23000.0
+Güzeloba Mh.,45.0,40.0,1+1,7.0,Giriş Katı,26-30 arası,Klima,1.0,0,1,Açık Otopark,1,1,0,500,15000,14000.0
+Sinan Mah.,120.0,100.0,3+1,4.0,3,26-30 arası,Klima,2.0,1,0,Yok,0,0,0,100,15000,15000.0
+Çağlayan Mh.,200.0,180.0,4+1,15.0,9,11-15 arası,Kombi (Doğalgaz),3.0,1,1,Açık Otopark,1,1,0,0,45000,45000.0
+Kızılarık Mh.,65.0,55.0,1+1,4.0,2,0,Klima,1.0,1,1,Açık Otopark,0,0,0,0,15000,13500.0
+Kışla Mh.,150.0,135.0,3+1,6.0,5,3,Kombi (Doğalgaz),2.0,1,1,Kapalı Otopark,0,0,0,500,50000,25000.0
+Altındağ Mh.,180.0,155.0,3+1,7.0,2,21-25 arası,Klima,1.0,1,1,Açık Otopark,1,0,0,0,30000,21750.0
+Meydankavağı Mh.,180.0,160.0,3+1,8.0,3,21-25 arası,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,0,0,0,500,33000,29500.0
+Varlık Mh.,150.0,130.0,2+1,6.0,6,2,Kombi (Doğalgaz),2.0,1,1,Açık Otopark,1,0,0,0,30000,26750.0
+Güzeloba Mh.,90.0,80.0,2+1,2.0,2,4,Klima,1.0,1,0,Açık Otopark,1,0,0,0,0,25000.0
+Fener Mah.,65.0,55.0,1+1,3.0,1,4,Klima,1.0,0,1,Açık Otopark,1,0,0,0,25000,25000.0
+Tahılpazarı Mh.,110.0,95.0,2+1,5.0,5,26-30 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,100,11000,11000.0
+Kızılarık Mh.,125.0,112.0,2+1,5.0,1,4,Klima,2.0,1,1,Açık Otopark,1,1,0,1100,35000,17800.0
+Güzeloba Mh.,60.0,50.0,1+1,2.0,Bahçe Katı,11-15 arası,Klima,1.0,1,0,Açık Otopark,1,1,0,0,0,13000.0
+Meydankavağı Mh.,220.0,180.0,4+1,5.0,4,11-15 arası,Yok,2.0,1,1,Açık Otopark,0,0,0,150,22000,22000.0
+Güzeloba Mh.,115.0,105.0,2+1,2.0,Yüksek Giriş,11-15 arası,Klima,1.0,1,0,Açık Otopark,1,0,0,200,25000,25000.0
+Fener Mah.,90.0,80.0,2+1,15.0,Zemin Kat,21-25 arası,Klima,1.0,1,1,Kapalı Otopark,0,1,0,1250,40000,20000.0
+Yenigün Mh.,110.0,100.0,2+1,4.0,4,11-15 arası,Klima,1.0,1,0,Açık Otopark,0,0,0,50,13000,13000.0
+Çağlayan Mh.,150.0,140.0,3+1,8.0,1,16-20 arası,Kombi (Doğalgaz),1.0,1,1,Kapalı Otopark,1,1,0,0,0,30000.0
+Yenigün Mh.,115.0,110.0,2+1,5.0,2,11-15 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,150,16000,16000.0
+Güzeloba Mh.,120.0,110.0,2+1,3.0,2,16-20 arası,Klima,1.0,1,1,Açık Otopark,0,0,0,250,16000,16000.0
+Soğuksu Mh.,170.0,160.0,3+1,17.0,11,11-15 arası,Kombi (Doğalgaz),1.0,1,1,Açık & Kapalı Otopark,1,0,0,0,25000,25000.0
+Şirinyalı Mh.,220.0,200.0,5+1,13.0,12,11-15 arası,Klima,2.0,1,1,Açık Otopark,0,0,0,0,30000,30000.0
+Muratpaşa Mh.,70.0,65.0,2+1,5.0,Çatı Katı,5-10 arası,Kombi (Doğalgaz),1.0,1,1,Açık Otopark,1,0,1,500,20000,20000.0
+Güzeloba Mh.,100.0,80.0,2+1,4.0,1,16-20 arası,Klima,2.0,1,0,Yok,1,0,0,300,25000,17500.0
